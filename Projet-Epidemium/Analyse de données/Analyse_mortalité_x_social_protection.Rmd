@@ -1,0 +1,84 @@
+---
+title: "Analyse mortalité x protection sociale et travail"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+On souhaite réaliser l'étude bivariée entre la mortalité et les données de protection sociale et travail.
+
+```{r}
+load(file="~/PST.RData")
+SocialProtection<-Indicators[Indicators$Category=="Social Protection & Labor",]
+SP_NA<- data.frame(matrix(ncol = 4, nrow = 0))
+colnames(SP_NA)<-c("Code","Nom","Nombre de NA","% de NA")
+for (i in 1:nrow(SocialProtection)) ## Poverty = dataset des indicateurs de pauvreté et leur signification
+  {
+      ### Calcul de NA
+      code=SocialProtection[i,3]
+      nbNA=sum(is.na(WorldBank[[toString(code)]]))
+      SP_NA[i,]<-list(toString(code),toString(SocialProtection[i,4]),nbNA,nbNA/46*100)
+}
+##Affichage du résultat
+library(knitr)
+kable(SP_NA,caption="Valeurs manquantes pour les variables Pauvreté")
+```
+
+On restreint aux variables contenant au moins 70% des données.
+
+```{r}
+SP_NA<-SP_NA[SP_NA$`% de NA`<=30,]
+kable(SP_NA,caption="Variables restantes (NA<30%)")
+```
+
+On calcule donc les coefficients de corrélation pour ces 3 variables :
+```{r}
+library(dplyr)
+## Création d'un dataset avec uniquement les données pauvreté et l'année
+sp_data<-WorldBank[,4,drop=FALSE]
+  for (i in 1:nrow(SP_NA)) ## indicateur conservé
+  {
+      code=SP_NA[i,1]
+      sp_data<-cbind(sp_data,WorldBank[toString(code)])
+}
+mortalitySP<-inner_join(mortalityBr,sp_data,by=c("Periode"="year"))
+```
+
+On affiche le corrélogramme :
+```{r}
+library(corrplot)
+corrplot(cor(mortalitySP[,c(6,8:11)],use="complete.obs"), type="upper", order="hclust")
+```
+On constate donc qu'il n'y a pas de corrélation entre les variables et la mortalité.
+
+```{r, warning=FALSE}
+pairs(mortalitySP[,c(6,8:11)],na.action = na.omit)
+```
+
+Création d'une valeur moyenne de la mortalité sur l'année :
+
+```{r}
+mortalitySP2<-unique(mortalitySP[,c(5,9:11)])
+mortalitySP2$`Mean Mortality`<-NA
+mortalitySP2$`Total Mortality`<-NA
+for (i in 1:nrow(mortalitySP)) {
+  mortalitySP2[i,5]<-mean(mortalitySP$Mortalité[mortalitySP$Periode==mortalitySP2$Periode[i]])
+  mortalitySP2[i,6]<-sum(mortalitySP$Mortalité[mortalitySP$Periode==mortalitySP2$Periode[i]])
+}
+mortalitySP2<-mortalitySP2[!is.na(mortalitySP2$Periode),]
+```
+
+On affiche à nouveau le graphique de relation :
+
+```{r, warning=FALSE}
+pairs(mortalitySP2[,c(2:6)],na.action = na.omit)
+```
+
+Le corélogramme :
+
+```{r}
+corrplot(cor(mortalitySP2[,c(2:6)],use="complete.obs"), type="upper", order="hclust")
+```
+

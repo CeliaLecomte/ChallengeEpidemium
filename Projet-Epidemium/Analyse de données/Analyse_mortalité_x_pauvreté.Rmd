@@ -1,0 +1,33 @@
+---
+title: "Analyse mortalité x indicateur de pauvreté"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Afin de pouvoir étudier l'influence des indicateurs de pauvreté sur la mortalité, on détermine d'abord les indicateurs que l'on va étudier. Dans un premier temps on regarde, le nombre de valeurs manquantes pour chacune des variables. En effet si le nombre de valeurs manquantes est trop important, il n'est pas pertinent de conserver la variable.
+
+On crée une fonction qui calcule le nombre de valeurs manquantes pour toutes les variables :
+
+```{r}
+load(file="~/PST.RData")
+Poverty<-Indicators[Indicators$Category=="Poverty",]
+## création du dataframe à remplir
+Poverty_NA<- data.frame(matrix(ncol = 4, nrow = 0))
+colnames(Poverty_NA)<-c("Code","Nom","Nombre de NA","% de NA")
+for (i in 1:nrow(Poverty)) ## Poverty = dataset des indicateurs de pauvreté et leur signification
+  {
+      ### Calcul de NA
+      code=Poverty[i,3]
+      nbNA=sum(is.na(WorldBank[[toString(code)]]))
+      Poverty_NA[i,]<-list(toString(code),toString(Poverty[i,4]),nbNA,nbNA/46*100)
+}
+##Affichage du résultat
+library(knitr)
+kable(Poverty_NA,caption="Valeurs manquantes pour les variables Pauvreté")
+
+```
+
+On constate qu'il n'y a aucune variable avec plus de 70% des données.

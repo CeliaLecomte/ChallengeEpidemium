@@ -1,0 +1,107 @@
+---
+title: "Analyse mortalité x secteur public"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Afin de pouvoir étudier l'influence des indicateurs sur le secteur public, on détermine d'abord les indicateurs que l'on va étudier. Dans un premier temps on regarde, le nombre de valeurs manquantes pour chacune des variables. En effet si le nombre de valeurs manquantes est trop important, il n'est pas pertinent de conserver la variable.
+
+On crée une fonction qui calcule le nombre de valeurs manquantes pour toutes les variables :
+```{r}
+load(file="~/PST.RData")
+## création du dataframe à remplir
+PS_NA<- data.frame(matrix(ncol = 4, nrow = 0))
+colnames(PS_NA)<-c("Code","Nom","Nombre de NA","% de NA")
+for (i in 1:nrow(PublicSector)) ## Poverty = dataset des indicateurs de pauvreté et leur signification
+  {
+      ### Calcul de NA
+      code=PublicSector[i,3]
+      nbNA=sum(is.na(WorldBank[[toString(code)]]))
+      PS_NA[i,]<-list(toString(code),toString(PublicSector[i,4]),nbNA,nbNA/46*100)
+}
+##Affichage du résultat
+library(knitr)
+kable(PS_NA,caption="Valeurs manquantes pour les variables Pauvreté")
+```
+
+On conserve les variables avec moins de 30% de valeurs manquantes, ce qui nous donne :
+
+```{r}
+library(knitr)
+PS_NA<-PS_NA[PS_NA$`% de NA`<=30,]
+kable(PS_NA,caption="Variables restantes (NA<30%)")
+```
+
+Il ne reste alors que les 19 variables indiquées ci-dessus.
+
+On va donc réaliser l'analyse pour ces 19 variables. Pour cela il faut d'abord lier les deux datasets en un même dataset.
+
+```{r, message=F,warning=FALSE}
+library(dplyr)
+## Création d'un dataset avec uniquement les données pauvreté et l'année
+ps_data<-WorldBank[,4,drop=FALSE]
+  for (i in 1:nrow(PS_NA)) ## indicateur conservé
+  {
+      code=PS_NA[i,1]
+      ps_data<-cbind(ps_data,WorldBank[toString(code)])
+}
+mortalityPS<-inner_join(mortalityBr,ps_data,by=c("Periode"="year"))
+```
+
+On affiche le corrélogramme :
+
+```{r}
+library(corrplot)
+corrplot(cor(mortalityPS[,c(6,8:27)],use="complete.obs"), type="upper", order="hclust")
+```
+
+Affichage des graphiques :
+
+```{r,warning=FALSE}
+pairs(mortalityPS[,c(6,8:15)],na.action = na.omit)
+```  
+
+```{r,warning=FALSE}
+pairs(mortalityPS[,c(6,16:27)],na.action = na.omit)
+```
+
+Les coefficients de corrélation sont très faibles, il n'y a donc pas a priori de relation entre ces variables et la mortalité.
+
+```{r}
+mortalityPS2<-unique(mortalityPS[,c(5,9:27)])
+mortalityPS2$`Mean Mortality`<-NA
+mortalityPS2$`Total Mortality`<-NA
+for (i in 1:nrow(mortalityPS)) {
+  mortalityPS2[i,21]<-mean(mortalityPS$Mortalité[mortalityPS$Periode==mortalityPS2$Periode[i]])
+  mortalityPS2[i,22]<-sum(mortalityPS$Mortalité[mortalityPS$Periode==mortalityPS2$Periode[i]])
+}
+mortalityPS2<-mortalityPS2[!is.na(mortalityPS2$Periode),]
+```
+
+Corélogramme :
+
+```{r}
+corrplot(cor(mortalityPS2[,c(2:22)],use="complete.obs"), type="upper", order="hclust")
+```
+Affichage plot :
+
+```{r, warning=FALSE}
+pairs(mortalityPS2[,c(2:7,21:22)],na.action = na.omit)
+```
+```{r,warning=FALSE}
+pairs(mortalityPS2[,c(8:12,21:22)],na.action = na.omit)
+```
+
+```{r,warning=FALSE}
+pairs(mortalityPS2[,c(13:16,21:22)],na.action = na.omit)
+
+```
+```{r,warning=FALSE}
+pairs(mortalityPS2[,c(17:22)],na.action = na.omit)
+```
+

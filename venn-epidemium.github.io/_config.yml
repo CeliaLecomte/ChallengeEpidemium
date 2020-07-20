@@ -1,0 +1,32 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Project Venn
+tagline:             -Linking cancer and air pollution through metadata-
+
+
+url:                 http://venn-epidemium.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Harizo Rajaona
+  email:             venn-epidemium@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/venn-epidemium/venn-epidemium.github.io
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

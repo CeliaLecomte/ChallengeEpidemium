@@ -1,0 +1,8 @@
+BDD
+.vs
+.vscode
+*.pyc
+.cache
+__pycache__
+Graph
+*.h5

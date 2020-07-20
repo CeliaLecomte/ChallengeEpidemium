@@ -1,0 +1,1986 @@
+Meat indigenous, sheep;Production
+Meat indigenous, sheep;Yield/Carcass Weight
+Meat indigenous, sheep;Production
+Goats;Stocks
+Meat, goat;Producing Animals/Slaughtered
+Meat, goat;Yield/Carcass Weight
+Meat, goat;Production
+Skins, goat, fresh;Producing Animals/Slaughtered
+Skins, goat, fresh;Yield
+Skins, goat, fresh;Production
+Meat indigenous, goat;Production
+Meat indigenous, goat;Yield/Carcass Weight
+Meat indigenous, goat;Production
+Pigs;Stocks
+Meat, pig;Producing Animals/Slaughtered
+Meat, pig;Yield/Carcass Weight
+Meat, pig;Production
+Meat indigenous, pig;Production
+Meat indigenous, pig;Yield/Carcass Weight
+Meat indigenous, pig;Production
+Chickens;Stocks
+Meat, chicken;Producing Animals/Slaughtered
+Meat, chicken;Yield/Carcass Weight
+Meat, chicken;Production
+Eggs, hen, in shell;Laying
+Eggs, hen, in shell;Yield
+Eggs, hen, in shell;Production
+Eggs, hen, in shell (number);Production
+Meat indigenous, chicken;Production
+Meat indigenous, chicken;Yield/Carcass Weight
+Meat indigenous, chicken;Production
+Horses;Stocks
+Potatoes;Area harvested
+Potatoes;Yield
+Potatoes;Production
+Potatoes;Seed
+Cereals,Total;Gross Production Index Number (2004-2006 = 100)
+Cereals,Total;Gross per capita Production Index Number (2004-2006 = 100)
+Cereals,Total;Net Production Index Number (2004-2006 = 100)
+Cereals,Total;Net per capita Production Index Number (2004-2006 = 100)
+Cereals,Total;Area harvested
+Cereals,Total;Yield
+Cereals,Total;Production
+Cereals,Total;Seed
+Roots and Tubers,Total;Gross Production Index Number (2004-2006 = 100)
+Roots and Tubers,Total;Gross per capita Production Index Number (2004-2006 = 100)
+Roots and Tubers,Total;Net Production Index Number (2004-2006 = 100)
+Roots and Tubers,Total;Net per capita Production Index Number (2004-2006 = 100)
+Roots and Tubers,Total;Area harvested
+Roots and Tubers,Total;Yield
+Roots and Tubers,Total;Production
+Roots and Tubers,Total;Seed
+Sugar, raw;Gross Production Index Number (2004-2006 = 100)
+Sugar, raw;Gross per capita Production Index Number (2004-2006 = 100)
+Sugar, raw;Net Production Index Number (2004-2006 = 100)
+Sugar, raw;Net per capita Production Index Number (2004-2006 = 100)
+Pulses,Total;Area harvested
+Pulses,Total;Yield
+Pulses,Total;Production
+Pulses,Total;Seed
+Oilcrops Primary;Gross Production Index Number (2004-2006 = 100)
+Oilcrops Primary;Gross per capita Production Index Number (2004-2006 = 100)
+Oilcrops Primary;Net Production Index Number (2004-2006 = 100)
+Oilcrops Primary;Net per capita Production Index Number (2004-2006 = 100)
+Oilcrops Primary;Area harvested
+Oilcrops Primary;Yield
+Oilcrops Primary;Production
+Oilcrops Primary;Seed
+Vegetables Primary;Area harvested
+Vegetables Primary;Yield
+Vegetables Primary;Production
+Vegetables and Fruit Primary;Gross Production Index Number (2004-2006 = 100)
+Vegetables and Fruit Primary;Gross per capita Production Index Number (2004-2006 = 100)
+Vegetables and Fruit Primary;Net Production Index Number (2004-2006 = 100)
+Vegetables and Fruit Primary;Net per capita Production Index Number (2004-2006 = 100)
+Cattle and Buffaloes;Stocks
+Sheep and Goats;Stocks
+Meat, Total;Production
+Meat indigenous, total;Gross Production Index Number (2004-2006 = 100)
+Meat indigenous, total;Gross per capita Production Index Number (2004-2006 = 100)
+Meat indigenous, total;Net Production Index Number (2004-2006 = 100)
+Meat indigenous, total;Net per capita Production Index Number (2004-2006 = 100)
+Meat indigenous, total;Production
+Meat indigenous, poultry;Production
+Meat indigenous, poultry;Production
+Milk,Total;Gross Production Index Number (2004-2006 = 100)
+Milk,Total;Gross per capita Production Index Number (2004-2006 = 100)
+Milk,Total;Net Production Index Number (2004-2006 = 100)
+Milk,Total;Net per capita Production Index Number (2004-2006 = 100)
+Milk,Total;Milk Animals
+Milk,Total;Yield
+Milk,Total;Production
+Eggs Primary;Laying
+Eggs Primary;Yield
+Eggs Primary;Production
+Vegetables&Melons, Total;Area harvested
+Vegetables&Melons, Total;Yield
+Vegetables&Melons, Total;Production
+Fruit excl Melons,Total;Area harvested
+Fruit excl Melons,Total;Yield
+Fruit excl Melons,Total;Production
+Citrus Fruit,Total;Area harvested
+Citrus Fruit,Total;Production
+Beef and Buffalo Meat;Producing Animals/Slaughtered
+Beef and Buffalo Meat;Yield/Carcass Weight
+Beef and Buffalo Meat;Production
+Sheep and Goat Meat;Producing Animals/Slaughtered
+Sheep and Goat Meat;Yield/Carcass Weight
+Sheep and Goat Meat;Production
+Meat, Poultry;Producing Animals/Slaughtered
+Meat, Poultry;Yield/Carcass Weight
+Meat, Poultry;Production
+Coarse Grain, Total;Area harvested
+Coarse Grain, Total;Yield
+Coarse Grain, Total;Production
+Coarse Grain, Total;Seed
+Cereals (Rice Milled Eqv);Area harvested
+Cereals (Rice Milled Eqv);Yield
+Cereals (Rice Milled Eqv);Production
+Cereals (Rice Milled Eqv);Seed
+Oilcakes Equivalent;Area harvested
+Oilcakes Equivalent;Yield
+Oilcakes Equivalent;Production
+Oilcakes Equivalent;Seed
+Poultry Birds;Stocks
+Crops (PIN);Gross Production Index Number (2004-2006 = 100)
+Crops (PIN);Gross per capita Production Index Number (2004-2006 = 100)
+Crops (PIN);Net Production Index Number (2004-2006 = 100)
+Crops (PIN);Net per capita Production Index Number (2004-2006 = 100)
+Livestock (PIN);Gross Production Index Number (2004-2006 = 100)
+Livestock (PIN);Gross per capita Production Index Number (2004-2006 = 100)
+Livestock (PIN);Net Production Index Number (2004-2006 = 100)
+Livestock (PIN);Net per capita Production Index Number (2004-2006 = 100)
+Agriculture (PIN);Gross Production Index Number (2004-2006 = 100)
+Agriculture (PIN);Gross per capita Production Index Number (2004-2006 = 100)
+Agriculture (PIN);Net Production Index Number (2004-2006 = 100)
+Agriculture (PIN);Net per capita Production Index Number (2004-2006 = 100)
+Food (PIN);Gross Production Index Number (2004-2006 = 100)
+Food (PIN);Gross per capita Production Index Number (2004-2006 = 100)
+Food (PIN);Net Production Index Number (2004-2006 = 100)
+Food (PIN);Net per capita Production Index Number (2004-2006 = 100)
+Non Food (PIN);Gross Production Index Number (2004-2006 = 100)
+Non Food (PIN);Gross per capita Production Index Number (2004-2006 = 100)
+Non Food (PIN);Net Production Index Number (2004-2006 = 100)
+Non Food (PIN);Net per capita Production Index Number (2004-2006 = 100)
+Tomatoes;Area harvested
+Tomatoes;Yield
+Tomatoes;Production
+Vegetables, fresh nes;Area harvested
+Vegetables, fresh nes;Yield
+Vegetables, fresh nes;Production
+Bananas;Production
+Beer of barley;Production
+Maize;Area harvested
+Maize;Yield
+Maize;Production
+Maize;Seed
+Fruit, fresh nes;Production
+Tobacco, unmanufactured;Production
+Cattle;Stocks
+Meat, cattle;Producing Animals/Slaughtered
+Meat, cattle;Yield/Carcass Weight
+Meat, cattle;Production
+Milk, whole fresh cow;Milk Animals
+Milk, whole fresh cow;Yield
+Milk, whole fresh cow;Production
+Hides, cattle, fresh;Producing Animals/Slaughtered
+Hides, cattle, fresh;Yield
+Hides, cattle, fresh;Production
+Meat indigenous, cattle;Production
+Meat indigenous, cattle;Yield/Carcass Weight
+Meat indigenous, cattle;Production
+Sheep;Stocks
+Meat, sheep;Producing Animals/Slaughtered
+Meat, sheep;Yield/Carcass Weight
+Meat, sheep;Production
+Skins, sheep, fresh;Producing Animals/Slaughtered
+Skins, sheep, fresh;Yield
+Skins, sheep, fresh;Production
+Meat, goat;Emissions intensity
+Meat, goat;Emissions (CO2eq)
+Meat, pig;Emissions intensity
+Meat, pig;Emissions (CO2eq)
+Meat, chicken;Emissions intensity
+Meat, chicken;Emissions (CO2eq)
+Eggs, hen, in shell;Emissions intensity
+Eggs, hen, in shell;Emissions (CO2eq)
+Cereals excluding rice;Production
+Cereals excluding rice;Emissions intensity
+Cereals excluding rice;Emissions (CO2eq)
+Meat, cattle;Emissions intensity
+Meat, cattle;Emissions (CO2eq)
+Milk, whole fresh cow;Emissions intensity
+Milk, whole fresh cow;Emissions (CO2eq)
+Meat, sheep;Emissions intensity
+Meat, sheep;Emissions (CO2eq)
+Pigs;% of Total Livestock
+Pigs;Livestock total per ha of agricultural area
+Cattle and Buffaloes + (Total);% of Total Livestock
+Cattle and Buffaloes + (Total);Livestock total per ha of agricultural area
+Sheep and Goats + (Total);% of Total Livestock
+Sheep and Goats + (Total);Livestock total per ha of agricultural area
+Cattle, Buffaloes, Pigs, Sheep, Goats, Poultry + (Total);% of Total Livestock
+Cattle, Buffaloes, Pigs, Sheep, Goats, Poultry + (Total);Livestock total per ha of agricultural area
+Poultry Birds + (Total);% of Total Livestock
+Poultry Birds + (Total);Livestock total per ha of agricultural area
+Agricultural area;% annual change (Agricultural area)
+Agricultural area;% of Land Area
+Arable land;% of Agricultural Area
+Permanent crops;% of Agricultural Area
+Permanent meadows and pastures;% of Agricultural Area
+Total area equipped for irrigation;% of Agricultural Area
+Wheat and products;Stock Variation
+Wheat and products;Waste
+Wheat and products;Food supply quantity (tonnes)
+Wheat and products;Domestic supply quantity
+Wheat and products;Import Quantity
+Wheat and products;Export Quantity
+Barley and products;Stock Variation
+Barley and products;Processing
+Barley and products;Food supply quantity (tonnes)
+Barley and products;Domestic supply quantity
+Barley and products;Import Quantity
+Maize and products;Stock Variation
+Maize and products;Waste
+Maize and products;Food supply quantity (tonnes)
+Maize and products;Domestic supply quantity
+Maize and products;Production
+Maize and products;Feed
+Maize and products;Seed
+Maize and products;Import Quantity
+Maize and products;Export Quantity
+Rye and products;Domestic supply quantity
+Rye and products;Import Quantity
+Oats;Food supply quantity (tonnes)
+Oats;Domestic supply quantity
+Oats;Import Quantity
+Millet and products;Domestic supply quantity
+Millet and products;Import Quantity
+Sorghum and products;Domestic supply quantity
+Sorghum and products;Import Quantity
+Cereals, Other;Food supply quantity (tonnes)
+Cereals, Other;Domestic supply quantity
+Cereals, Other;Feed
+Cereals, Other;Import Quantity
+Cereals, Other;Export Quantity
+Potatoes and products;Waste
+Potatoes and products;Food supply quantity (tonnes)
+Potatoes and products;Domestic supply quantity
+Potatoes and products;Production
+Potatoes and products;Import Quantity
+Potatoes and products;Export Quantity
+Cassava and products;Domestic supply quantity
+Cassava and products;Import Quantity
+Sweet potatoes;Food supply quantity (tonnes)
+Sweet potatoes;Domestic supply quantity
+Roots, Other;Food supply quantity (tonnes)
+Roots, Other;Domestic supply quantity
+Roots, Other;Import Quantity
+Sugar (Raw Equivalent);Stock Variation
+Sugar (Raw Equivalent);Food supply quantity (tonnes)
+Sugar (Raw Equivalent);Domestic supply quantity
+Sugar (Raw Equivalent);Import Quantity
+Sugar (Raw Equivalent);Export Quantity
+Sweeteners, Other;Food supply quantity (tonnes)
+Sweeteners, Other;Domestic supply quantity
+Sweeteners, Other;Import Quantity
+Sweeteners, Other;Export Quantity
+Molasses;Domestic supply quantity
+Molasses;Feed
+Molasses;Import Quantity
+Beans;Food supply quantity (tonnes)
+Beans;Domestic supply quantity
+Beans;Import Quantity
+Beans;Export Quantity
+Peas;Food supply quantity (tonnes)
+Peas;Domestic supply quantity
+Peas;Import Quantity
+Pulses, Other and products;Food supply quantity (tonnes)
+Pulses, Other and products;Domestic supply quantity
+Pulses, Other and products;Production
+Pulses, Other and products;Import Quantity
+Pulses, Other and products;Export Quantity
+Nuts and products;Food supply quantity (tonnes)
+Nuts and products;Domestic supply quantity
+Nuts and products;Import Quantity
+Nuts and products;Export Quantity
+Soyabeans;Food supply quantity (tonnes)
+Soyabeans;Domestic supply quantity
+Soyabeans;Import Quantity
+Groundnuts (Shelled Eq);Food supply quantity (tonnes)
+Groundnuts (Shelled Eq);Domestic supply quantity
+Groundnuts (Shelled Eq);Import Quantity
+Groundnuts (Shelled Eq);Export Quantity
+Sunflower seed;Domestic supply quantity
+Sunflower seed;Import Quantity
+Rape and Mustardseed;Food supply quantity (tonnes)
+Rape and Mustardseed;Domestic supply quantity
+Rape and Mustardseed;Import Quantity
+Cottonseed;Domestic supply quantity
+Coconuts - Incl Copra;Food supply quantity (tonnes)
+Coconuts - Incl Copra;Domestic supply quantity
+Coconuts - Incl Copra;Import Quantity
+Coconuts - Incl Copra;Export Quantity
+Sesame seed;Domestic supply quantity
+Sesame seed;Import Quantity
+Olives (including preserved);Food supply quantity (tonnes)
+Olives (including preserved);Domestic supply quantity
+Olives (including preserved);Import Quantity
+Oilcrops, Other;Domestic supply quantity
+Oilcrops, Other;Import Quantity
+Oilcrops, Other;Export Quantity
+Soyabean Oil;Stock Variation
+Soyabean Oil;Food supply quantity (tonnes)
+Soyabean Oil;Domestic supply quantity
+Soyabean Oil;Import Quantity
+Groundnut Oil;Food supply quantity (tonnes)
+Groundnut Oil;Domestic supply quantity
+Groundnut Oil;Import Quantity
+Sunflowerseed Oil;Food supply quantity (tonnes)
+Sunflowerseed Oil;Domestic supply quantity
+Sunflowerseed Oil;Import Quantity
+Rape and Mustard Oil;Domestic supply quantity
+Rape and Mustard Oil;Import Quantity
+Cottonseed Oil;Domestic supply quantity
+Cottonseed Oil;Import Quantity
+Palmkernel Oil;Domestic supply quantity
+Palmkernel Oil;Import Quantity
+Palm Oil;Other uses
+Palm Oil;Domestic supply quantity
+Palm Oil;Import Quantity
+Palm Oil;Export Quantity
+Coconut Oil;Food supply quantity (tonnes)
+Coconut Oil;Domestic supply quantity
+Coconut Oil;Import Quantity
+Sesameseed Oil;Domestic supply quantity
+Sesameseed Oil;Import Quantity
+Olive Oil;Food supply quantity (tonnes)
+Olive Oil;Domestic supply quantity
+Olive Oil;Import Quantity
+Maize Germ Oil;Food supply quantity (tonnes)
+Maize Germ Oil;Domestic supply quantity
+Maize Germ Oil;Import Quantity
+Oilcrops Oil, Other;Stock Variation
+Oilcrops Oil, Other;Food supply quantity (tonnes)
+Oilcrops Oil, Other;Other uses
+Oilcrops Oil, Other;Domestic supply quantity
+Oilcrops Oil, Other;Import Quantity
+Oilcrops Oil, Other;Export Quantity
+Soyabean Cake;Domestic supply quantity
+Soyabean Cake;Feed
+Soyabean Cake;Import Quantity
+Groundnut Cake;Domestic supply quantity
+Groundnut Cake;Feed
+Oilseed Cakes, Other;Domestic supply quantity
+Oilseed Cakes, Other;Feed
+Oilseed Cakes, Other;Import Quantity
+Brans;Domestic supply quantity
+Brans;Production
+Brans;Feed
+Brans;Import Quantity
+Brans;Export Quantity
+Tomatoes and products;Food supply quantity (tonnes)
+Tomatoes and products;Domestic supply quantity
+Tomatoes and products;Production
+Tomatoes and products;Import Quantity
+Tomatoes and products;Export Quantity
+Onions;Food supply quantity (tonnes)
+Onions;Domestic supply quantity
+Onions;Import Quantity
+Onions;Export Quantity
+Vegetables, Other;Stock Variation
+Vegetables, Other;Waste
+Vegetables, Other;Food supply quantity (tonnes)
+Vegetables, Other;Domestic supply quantity
+Vegetables, Other;Production
+Vegetables, Other;Import Quantity
+Vegetables, Other;Export Quantity
+Oranges, Mandarines;Food supply quantity (tonnes)
+Oranges, Mandarines;Domestic supply quantity
+Oranges, Mandarines;Import Quantity
+Oranges, Mandarines;Export Quantity
+Lemons, Limes and products;Food supply quantity (tonnes)
+Lemons, Limes and products;Domestic supply quantity
+Lemons, Limes and products;Import Quantity
+Grapefruit and products;Food supply quantity (tonnes)
+Grapefruit and products;Domestic supply quantity
+Grapefruit and products;Import Quantity
+Citrus, Other;Food supply quantity (tonnes)
+Citrus, Other;Domestic supply quantity
+Citrus, Other;Import Quantity
+Bananas;Waste
+Bananas;Food supply quantity (tonnes)
+Bananas;Domestic supply quantity
+Bananas;Import Quantity
+Bananas;Export Quantity
+Apples and products;Food supply quantity (tonnes)
+Apples and products;Domestic supply quantity
+Apples and products;Import Quantity
+Apples and products;Export Quantity
+Pineapples and products;Food supply quantity (tonnes)
+Pineapples and products;Domestic supply quantity
+Pineapples and products;Import Quantity
+Pineapples and products;Export Quantity
+Dates;Food supply quantity (tonnes)
+Dates;Domestic supply quantity
+Dates;Import Quantity
+Grapes and products (excl wine);Food supply quantity (tonnes)
+Grapes and products (excl wine);Domestic supply quantity
+Grapes and products (excl wine);Import Quantity
+Fruits, Other;Waste
+Fruits, Other;Food supply quantity (tonnes)
+Fruits, Other;Domestic supply quantity
+Fruits, Other;Production
+Fruits, Other;Import Quantity
+Fruits, Other;Export Quantity
+Coffee and products;Food supply quantity (tonnes)
+Coffee and products;Domestic supply quantity
+Coffee and products;Import Quantity
+Coffee and products;Export Quantity
+Cocoa Beans and products;Food supply quantity (tonnes)
+Cocoa Beans and products;Domestic supply quantity
+Cocoa Beans and products;Import Quantity
+Cocoa Beans and products;Export Quantity
+Tea (including mate);Food supply quantity (tonnes)
+Tea (including mate);Domestic supply quantity
+Tea (including mate);Import Quantity
+Tea (including mate);Export Quantity
+Pepper;Food supply quantity (tonnes)
+Pepper;Domestic supply quantity
+Pepper;Import Quantity
+Pimento;Food supply quantity (tonnes)
+Pimento;Domestic supply quantity
+Pimento;Import Quantity
+Cloves;Domestic supply quantity
+Cloves;Import Quantity
+Spices, Other;Food supply quantity (tonnes)
+Spices, Other;Domestic supply quantity
+Spices, Other;Import Quantity
+Spices, Other;Export Quantity
+Wine;Food supply quantity (tonnes)
+Wine;Domestic supply quantity
+Wine;Import Quantity
+Wine;Export Quantity
+Beer;Food supply quantity (tonnes)
+Beer;Domestic supply quantity
+Beer;Production
+Beer;Import Quantity
+Beer;Export Quantity
+Beverages, Fermented;Food supply quantity (tonnes)
+Beverages, Fermented;Domestic supply quantity
+Beverages, Fermented;Import Quantity
+Beverages, Alcoholic;Food supply quantity (tonnes)
+Beverages, Alcoholic;Domestic supply quantity
+Beverages, Alcoholic;Import Quantity
+Beverages, Alcoholic;Export Quantity
+Alcohol, Non-Food;Other uses
+Alcohol, Non-Food;Domestic supply quantity
+Alcohol, Non-Food;Import Quantity
+Cotton lint;Other uses
+Cotton lint;Domestic supply quantity
+Cotton lint;Import Quantity
+Cotton lint;Export Quantity
+Jute;Other uses
+Jute;Domestic supply quantity
+Jute;Import Quantity
+Soft-Fibres, Other;Other uses
+Soft-Fibres, Other;Domestic supply quantity
+Soft-Fibres, Other;Import Quantity
+Hard Fibres, Other;Other uses
+Hard Fibres, Other;Domestic supply quantity
+Hard Fibres, Other;Import Quantity
+Tobacco;Other uses
+Tobacco;Domestic supply quantity
+Tobacco;Import Quantity
+Tobacco;Export Quantity
+Rubber;Other uses
+Rubber;Domestic supply quantity
+Rubber;Import Quantity
+Infant food;Food supply quantity (tonnes)
+Infant food;Domestic supply quantity
+Infant food;Import Quantity
+Bovine Meat;Food supply quantity (tonnes)
+Bovine Meat;Domestic supply quantity
+Bovine Meat;Production
+Bovine Meat;Import Quantity
+Bovine Meat;Export Quantity
+Mutton & Goat Meat;Food supply quantity (tonnes)
+Mutton & Goat Meat;Domestic supply quantity
+Mutton & Goat Meat;Production
+Mutton & Goat Meat;Import Quantity
+Pigmeat;Food supply quantity (tonnes)
+Pigmeat;Domestic supply quantity
+Pigmeat;Production
+Pigmeat;Import Quantity
+Pigmeat;Export Quantity
+Poultry Meat;Food supply quantity (tonnes)
+Poultry Meat;Domestic supply quantity
+Poultry Meat;Production
+Poultry Meat;Import Quantity
+Poultry Meat;Export Quantity
+Meat, Other;Food supply quantity (tonnes)
+Meat, Other;Domestic supply quantity
+Meat, Other;Import Quantity
+Meat, Other;Export Quantity
+Offals, Edible;Food supply quantity (tonnes)
+Offals, Edible;Domestic supply quantity
+Offals, Edible;Production
+Offals, Edible;Import Quantity
+Fats, Animals, Raw;Food supply quantity (tonnes)
+Fats, Animals, Raw;Other uses
+Fats, Animals, Raw;Domestic supply quantity
+Fats, Animals, Raw;Production
+Fats, Animals, Raw;Import Quantity
+Milk, Whole;Waste
+Milk, Whole;Food supply quantity (tonnes)
+Milk, Whole;Domestic supply quantity
+Milk, Whole;Production
+Milk, Whole;Import Quantity
+Milk, Whole;Export Quantity
+Milk, Skimmed;Food supply quantity (tonnes)
+Milk, Skimmed;Domestic supply quantity
+Milk, Skimmed;Import Quantity
+Milk, Skimmed;Export Quantity
+Butter, Ghee;Food supply quantity (tonnes)
+Butter, Ghee;Domestic supply quantity
+Butter, Ghee;Import Quantity
+Butter, Ghee;Export Quantity
+Cheese;Food supply quantity (tonnes)
+Cheese;Domestic supply quantity
+Cheese;Import Quantity
+Cheese;Export Quantity
+Whey;Domestic supply quantity
+Whey;Import Quantity
+Cream;Food supply quantity (tonnes)
+Cream;Domestic supply quantity
+Cream;Import Quantity
+Eggs;Waste
+Eggs;Food supply quantity (tonnes)
+Eggs;Domestic supply quantity
+Eggs;Production
+Eggs;Seed
+Eggs;Import Quantity
+Eggs;Export Quantity
+Honey;Food supply quantity (tonnes)
+Honey;Domestic supply quantity
+Honey;Import Quantity
+Hides and skins;Other uses
+Hides and skins;Domestic supply quantity
+Hides and skins;Production
+Hides and skins;Import Quantity
+Hides and skins;Export Quantity
+Meat Meal;Domestic supply quantity
+Meat Meal;Import Quantity
+Freshwater Fish;Food supply quantity (tonnes)
+Freshwater Fish;Other uses
+Freshwater Fish;Domestic supply quantity
+Freshwater Fish;Production
+Freshwater Fish;Import Quantity
+Freshwater Fish;Export Quantity
+Demersal Fish;Food supply quantity (tonnes)
+Demersal Fish;Other uses
+Demersal Fish;Domestic supply quantity
+Demersal Fish;Production
+Demersal Fish;Import Quantity
+Demersal Fish;Export Quantity
+Pelagic Fish;Food supply quantity (tonnes)
+Pelagic Fish;Other uses
+Pelagic Fish;Domestic supply quantity
+Pelagic Fish;Production
+Pelagic Fish;Feed
+Pelagic Fish;Import Quantity
+Pelagic Fish;Export Quantity
+Marine Fish, Other;Food supply quantity (tonnes)
+Marine Fish, Other;Other uses
+Marine Fish, Other;Domestic supply quantity
+Marine Fish, Other;Production
+Marine Fish, Other;Import Quantity
+Marine Fish, Other;Export Quantity
+Crustaceans;Food supply quantity (tonnes)
+Crustaceans;Other uses
+Crustaceans;Domestic supply quantity
+Crustaceans;Production
+Crustaceans;Import Quantity
+Crustaceans;Export Quantity
+Cephalopods;Food supply quantity (tonnes)
+Cephalopods;Other uses
+Cephalopods;Domestic supply quantity
+Cephalopods;Import Quantity
+Molluscs, Other;Food supply quantity (tonnes)
+Molluscs, Other;Other uses
+Molluscs, Other;Domestic supply quantity
+Molluscs, Other;Import Quantity
+Molluscs, Other;Export Quantity
+Aquatic Plants;Food supply quantity (tonnes)
+Aquatic Plants;Other uses
+Aquatic Plants;Domestic supply quantity
+Aquatic Plants;Import Quantity
+Fish, Body Oil;Food supply quantity (tonnes)
+Fish, Body Oil;Other uses
+Fish, Body Oil;Domestic supply quantity
+Fish, Body Oil;Import Quantity
+Fish, Liver Oil;Food supply quantity (tonnes)
+Fish, Liver Oil;Other uses
+Fish, Liver Oil;Domestic supply quantity
+Fish, Liver Oil;Import Quantity
+Rice (Paddy Equivalent);Stock Variation
+Rice (Paddy Equivalent);Waste
+Rice (Paddy Equivalent);Food supply quantity (tonnes)
+Rice (Paddy Equivalent);Other uses
+Rice (Paddy Equivalent);Domestic supply quantity
+Rice (Paddy Equivalent);Import Quantity
+Rice (Paddy Equivalent);Export Quantity
+Rice (Milled Equivalent);Stock Variation
+Rice (Milled Equivalent);Waste
+Rice (Milled Equivalent);Food supply quantity (tonnes)
+Rice (Milled Equivalent);Other uses
+Rice (Milled Equivalent);Domestic supply quantity
+Rice (Milled Equivalent);Import Quantity
+Rice (Milled Equivalent);Export Quantity
+Roots & Tuber Dry Equiv;Waste
+Roots & Tuber Dry Equiv;Food supply quantity (tonnes)
+Roots & Tuber Dry Equiv;Other uses
+Roots & Tuber Dry Equiv;Domestic supply quantity
+Roots & Tuber Dry Equiv;Production
+Roots & Tuber Dry Equiv;Seed
+Roots & Tuber Dry Equiv;Import Quantity
+Roots & Tuber Dry Equiv;Export Quantity
+Sugar, Refined Equiv;Stock Variation
+Sugar, Refined Equiv;Food supply quantity (tonnes)
+Sugar, Refined Equiv;Domestic supply quantity
+Sugar, Refined Equiv;Import Quantity
+Sugar, Refined Equiv;Export Quantity
+Groundnuts (in Shell Eq);Food supply quantity (tonnes)
+Groundnuts (in Shell Eq);Domestic supply quantity
+Groundnuts (in Shell Eq);Import Quantity
+Groundnuts (in Shell Eq);Export Quantity
+Sugar, Raw Equivalent;Stock Variation
+Sugar, Raw Equivalent;Food supply quantity (tonnes)
+Sugar, Raw Equivalent;Other uses
+Sugar, Raw Equivalent;Domestic supply quantity
+Sugar, Raw Equivalent;Production
+Sugar, Raw Equivalent;Import Quantity
+Sugar, Raw Equivalent;Export Quantity
+Milk - Excluding Butter;Stock Variation
+Milk - Excluding Butter;Waste
+Milk - Excluding Butter;Food supply quantity (tonnes)
+Milk - Excluding Butter;Domestic supply quantity
+Milk - Excluding Butter;Production
+Milk - Excluding Butter;Import Quantity
+Milk - Excluding Butter;Export Quantity
+Fish Meal;Other uses
+Fish Meal;Domestic supply quantity
+Fish Meal;Production
+Fish Meal;Feed
+Fish Meal;Import Quantity
+Fish Meal;Export Quantity
+Cereals - Excluding Beer;Stock Variation
+Cereals - Excluding Beer;Waste
+Cereals - Excluding Beer;Processing
+Cereals - Excluding Beer;Food supply quantity (tonnes)
+Cereals - Excluding Beer;Other uses
+Cereals - Excluding Beer;Domestic supply quantity
+Cereals - Excluding Beer;Production
+Cereals - Excluding Beer;Feed
+Cereals - Excluding Beer;Seed
+Cereals - Excluding Beer;Import Quantity
+Cereals - Excluding Beer;Export Quantity
+Starchy Roots;Waste
+Starchy Roots;Food supply quantity (tonnes)
+Starchy Roots;Other uses
+Starchy Roots;Domestic supply quantity
+Starchy Roots;Production
+Starchy Roots;Seed
+Starchy Roots;Import Quantity
+Starchy Roots;Export Quantity
+Sugar Crops;Domestic supply quantity
+Sugar Crops;Production
+Sugar & Sweeteners;Stock Variation
+Sugar & Sweeteners;Food supply quantity (tonnes)
+Sugar & Sweeteners;Other uses
+Sugar & Sweeteners;Domestic supply quantity
+Sugar & Sweeteners;Production
+Sugar & Sweeteners;Import Quantity
+Sugar & Sweeteners;Export Quantity
+Pulses;Stock Variation
+Pulses;Waste
+Pulses;Food supply quantity (tonnes)
+Pulses;Domestic supply quantity
+Pulses;Production
+Pulses;Seed
+Pulses;Import Quantity
+Pulses;Export Quantity
+Treenuts;Food supply quantity (tonnes)
+Treenuts;Domestic supply quantity
+Treenuts;Import Quantity
+Treenuts;Export Quantity
+Oilcrops;Stock Variation
+Oilcrops;Waste
+Oilcrops;Processing
+Oilcrops;Food supply quantity (tonnes)
+Oilcrops;Other uses
+Oilcrops;Domestic supply quantity
+Oilcrops;Production
+Oilcrops;Feed
+Oilcrops;Seed
+Oilcrops;Import Quantity
+Oilcrops;Export Quantity
+Vegetable Oils;Stock Variation
+Vegetable Oils;Food supply quantity (tonnes)
+Vegetable Oils;Other uses
+Vegetable Oils;Domestic supply quantity
+Vegetable Oils;Production
+Vegetable Oils;Import Quantity
+Vegetable Oils;Export Quantity
+Vegetables;Stock Variation
+Vegetables;Waste
+Vegetables;Food supply quantity (tonnes)
+Vegetables;Domestic supply quantity
+Vegetables;Production
+Vegetables;Import Quantity
+Vegetables;Export Quantity
+Fruits - Excluding Wine;Stock Variation
+Fruits - Excluding Wine;Waste
+Fruits - Excluding Wine;Food supply quantity (tonnes)
+Fruits - Excluding Wine;Domestic supply quantity
+Fruits - Excluding Wine;Production
+Fruits - Excluding Wine;Import Quantity
+Fruits - Excluding Wine;Export Quantity
+Stimulants;Stock Variation
+Stimulants;Food supply quantity (tonnes)
+Stimulants;Domestic supply quantity
+Stimulants;Import Quantity
+Stimulants;Export Quantity
+Spices;Food supply quantity (tonnes)
+Spices;Domestic supply quantity
+Spices;Import Quantity
+Spices;Export Quantity
+Alcoholic Beverages;Stock Variation
+Alcoholic Beverages;Food supply quantity (tonnes)
+Alcoholic Beverages;Other uses
+Alcoholic Beverages;Domestic supply quantity
+Alcoholic Beverages;Production
+Alcoholic Beverages;Import Quantity
+Alcoholic Beverages;Export Quantity
+Miscellaneous;Food supply quantity (tonnes)
+Miscellaneous;Domestic supply quantity
+Miscellaneous;Import Quantity
+Meat;Stock Variation
+Meat;Food supply quantity (tonnes)
+Meat;Domestic supply quantity
+Meat;Production
+Meat;Import Quantity
+Meat;Export Quantity
+Offals;Food supply quantity (tonnes)
+Offals;Domestic supply quantity
+Offals;Production
+Offals;Import Quantity
+Animal fats;Stock Variation
+Animal fats;Food supply quantity (tonnes)
+Animal fats;Other uses
+Animal fats;Domestic supply quantity
+Animal fats;Production
+Animal fats;Import Quantity
+Animal fats;Export Quantity
+Milk - Excluding Butter;Stock Variation
+Milk - Excluding Butter;Waste
+Milk - Excluding Butter;Food supply quantity (tonnes)
+Milk - Excluding Butter;Domestic supply quantity
+Milk - Excluding Butter;Production
+Milk - Excluding Butter;Import Quantity
+Milk - Excluding Butter;Export Quantity
+Eggs;Waste
+Eggs;Food supply quantity (tonnes)
+Eggs;Domestic supply quantity
+Eggs;Production
+Eggs;Seed
+Eggs;Import Quantity
+Eggs;Export Quantity
+Fish, Seafood;Stock Variation
+Fish, Seafood;Food supply quantity (tonnes)
+Fish, Seafood;Other uses
+Fish, Seafood;Domestic supply quantity
+Fish, Seafood;Production
+Fish, Seafood;Feed
+Fish, Seafood;Import Quantity
+Fish, Seafood;Export Quantity
+Aquatic Products, Other;Food supply quantity (tonnes)
+Aquatic Products, Other;Other uses
+Aquatic Products, Other;Domestic supply quantity
+Aquatic Products, Other;Import Quantity
+Nitrogenous fertilizers;Consumption
+Nitrogenous fertilizers;Production
+Nitrogenous fertilizers;Import Quantity
+Nitrogenous fertilizers;Export Quantity
+Urea;Consumption
+Urea;Production
+Urea;Import Quantity
+Urea;Export Quantity
+Phosphate fertilizers;Consumption
+Phosphate fertilizers;Production
+Phosphate fertilizers;Import Quantity
+Phosphate fertilizers;Export Quantity
+Potash fertilizers;Consumption
+Potash fertilizers;Production
+Potash fertilizers;Import Quantity
+Potash fertilizers;Export Quantity
+Muriate Over 45% K2o;Consumption
+Muriate Over 45% K2o;Production
+Muriate Over 45% K2o;Import Quantity
+Muriate Over 45% K2o;Export Quantity
+Total Fertilizers + (Total);Consumption
+Total Fertilizers + (Total);Production
+Total Fertilizers + (Total);Import Quantity
+Total Fertilizers + (Total);Export Quantity
+Grand Total;Food supply (kcal/capita/day)
+Grand Total;Protein supply quantity (g/capita/day)
+Grand Total;Fat supply quantity (g/capita/day)
+Vegetal Products;Food supply (kcal/capita/day)
+Vegetal Products;Protein supply quantity (g/capita/day)
+Vegetal Products;Fat supply quantity (g/capita/day)
+Cereals - Excluding Beer;Food
+Cereals - Excluding Beer;Food supply quantity (kg/capita/yr)
+Cereals - Excluding Beer;Food supply (kcal/capita/day)
+Cereals - Excluding Beer;Protein supply quantity (g/capita/day)
+Cereals - Excluding Beer;Fat supply quantity (g/capita/day)
+Starchy Roots;Food
+Starchy Roots;Food supply quantity (kg/capita/yr)
+Starchy Roots;Food supply (kcal/capita/day)
+Starchy Roots;Protein supply quantity (g/capita/day)
+Starchy Roots;Fat supply quantity (g/capita/day)
+Sugar & Sweeteners;Food
+Sugar & Sweeteners;Food supply quantity (kg/capita/yr)
+Sugar & Sweeteners;Food supply (kcal/capita/day)
+Pulses;Food
+Pulses;Food supply quantity (kg/capita/yr)
+Pulses;Food supply (kcal/capita/day)
+Pulses;Protein supply quantity (g/capita/day)
+Pulses;Fat supply quantity (g/capita/day)
+Treenuts;Food
+Treenuts;Food supply quantity (kg/capita/yr)
+Treenuts;Food supply (kcal/capita/day)
+Treenuts;Protein supply quantity (g/capita/day)
+Treenuts;Fat supply quantity (g/capita/day)
+Oilcrops;Food
+Oilcrops;Food supply quantity (kg/capita/yr)
+Oilcrops;Food supply (kcal/capita/day)
+Oilcrops;Protein supply quantity (g/capita/day)
+Oilcrops;Fat supply quantity (g/capita/day)
+Vegetable Oils;Food
+Vegetable Oils;Food supply quantity (kg/capita/yr)
+Vegetable Oils;Food supply (kcal/capita/day)
+Vegetable Oils;Fat supply quantity (g/capita/day)
+Vegetables;Food
+Vegetables;Food supply quantity (kg/capita/yr)
+Vegetables;Food supply (kcal/capita/day)
+Vegetables;Protein supply quantity (g/capita/day)
+Vegetables;Fat supply quantity (g/capita/day)
+Fruits - Excluding Wine;Food
+Fruits - Excluding Wine;Food supply quantity (kg/capita/yr)
+Fruits - Excluding Wine;Food supply (kcal/capita/day)
+Fruits - Excluding Wine;Protein supply quantity (g/capita/day)
+Fruits - Excluding Wine;Fat supply quantity (g/capita/day)
+Stimulants;Food
+Stimulants;Food supply quantity (kg/capita/yr)
+Stimulants;Food supply (kcal/capita/day)
+Stimulants;Protein supply quantity (g/capita/day)
+Stimulants;Fat supply quantity (g/capita/day)
+Spices;Food
+Spices;Food supply quantity (kg/capita/yr)
+Spices;Food supply (kcal/capita/day)
+Spices;Protein supply quantity (g/capita/day)
+Spices;Fat supply quantity (g/capita/day)
+Alcoholic Beverages;Food
+Alcoholic Beverages;Food supply quantity (kg/capita/yr)
+Alcoholic Beverages;Food supply (kcal/capita/day)
+Alcoholic Beverages;Protein supply quantity (g/capita/day)
+Miscellaneous;Food supply (kcal/capita/day)
+Miscellaneous;Protein supply quantity (g/capita/day)
+Animal Products;Food supply (kcal/capita/day)
+Animal Products;Protein supply quantity (g/capita/day)
+Animal Products;Fat supply quantity (g/capita/day)
+Meat;Food
+Meat;Food supply quantity (kg/capita/yr)
+Meat;Food supply (kcal/capita/day)
+Meat;Protein supply quantity (g/capita/day)
+Meat;Fat supply quantity (g/capita/day)
+Offals;Food
+Offals;Food supply quantity (kg/capita/yr)
+Offals;Food supply (kcal/capita/day)
+Offals;Protein supply quantity (g/capita/day)
+Offals;Fat supply quantity (g/capita/day)
+Animal fats;Food
+Animal fats;Food supply quantity (kg/capita/yr)
+Animal fats;Food supply (kcal/capita/day)
+Animal fats;Protein supply quantity (g/capita/day)
+Animal fats;Fat supply quantity (g/capita/day)
+Milk - Excluding Butter;Food
+Milk - Excluding Butter;Food supply quantity (kg/capita/yr)
+Milk - Excluding Butter;Food supply (kcal/capita/day)
+Milk - Excluding Butter;Protein supply quantity (g/capita/day)
+Milk - Excluding Butter;Fat supply quantity (g/capita/day)
+Eggs;Food
+Eggs;Food supply quantity (kg/capita/yr)
+Eggs;Food supply (kcal/capita/day)
+Eggs;Protein supply quantity (g/capita/day)
+Eggs;Fat supply quantity (g/capita/day)
+Fish, Seafood;Food
+Fish, Seafood;Food supply quantity (kg/capita/yr)
+Fish, Seafood;Food supply (kcal/capita/day)
+Fish, Seafood;Protein supply quantity (g/capita/day)
+Fish, Seafood;Fat supply quantity (g/capita/day)
+Wheat and products;Food supply quantity (tonnes)
+Wheat and products;Food supply quantity (kg/capita/yr)
+Wheat and products;Food supply quantity (g/capita/day)
+Wheat and products;Food supply (kcal/capita/day)
+Wheat and products;Protein supply quantity (g/capita/day)
+Wheat and products;Fat supply quantity (g/capita/day)
+Barley and products;Food supply quantity (tonnes)
+Barley and products;Food supply quantity (kg/capita/yr)
+Barley and products;Food supply quantity (g/capita/day)
+Barley and products;Food supply (kcal/capita/day)
+Barley and products;Protein supply quantity (g/capita/day)
+Maize and products;Food supply quantity (tonnes)
+Maize and products;Food supply quantity (kg/capita/yr)
+Maize and products;Food supply quantity (g/capita/day)
+Maize and products;Food supply (kcal/capita/day)
+Maize and products;Protein supply quantity (g/capita/day)
+Maize and products;Fat supply quantity (g/capita/day)
+Oats;Food supply quantity (tonnes)
+Oats;Food supply quantity (kg/capita/yr)
+Oats;Food supply quantity (g/capita/day)
+Oats;Food supply (kcal/capita/day)
+Oats;Protein supply quantity (g/capita/day)
+Oats;Fat supply quantity (g/capita/day)
+Cereals, Other;Food supply quantity (tonnes)
+Cereals, Other;Food supply quantity (kg/capita/yr)
+Cereals, Other;Food supply quantity (g/capita/day)
+Cereals, Other;Food supply (kcal/capita/day)
+Cereals, Other;Protein supply quantity (g/capita/day)
+Cereals, Other;Fat supply quantity (g/capita/day)
+Potatoes and products;Food supply quantity (tonnes)
+Potatoes and products;Food supply quantity (kg/capita/yr)
+Potatoes and products;Food supply quantity (g/capita/day)
+Potatoes and products;Food supply (kcal/capita/day)
+Potatoes and products;Protein supply quantity (g/capita/day)
+Potatoes and products;Fat supply quantity (g/capita/day)
+Sweet potatoes;Food supply quantity (tonnes)
+Sweet potatoes;Food supply quantity (kg/capita/yr)
+Sweet potatoes;Food supply quantity (g/capita/day)
+Sweet potatoes;Food supply (kcal/capita/day)
+Roots, Other;Food supply quantity (tonnes)
+Roots, Other;Food supply quantity (kg/capita/yr)
+Roots, Other;Food supply quantity (g/capita/day)
+Roots, Other;Food supply (kcal/capita/day)
+Sugar (Raw Equivalent);Food supply quantity (tonnes)
+Sugar (Raw Equivalent);Food supply quantity (kg/capita/yr)
+Sugar (Raw Equivalent);Food supply quantity (g/capita/day)
+Sugar (Raw Equivalent);Food supply (kcal/capita/day)
+Sweeteners, Other;Food supply quantity (tonnes)
+Sweeteners, Other;Food supply quantity (kg/capita/yr)
+Sweeteners, Other;Food supply quantity (g/capita/day)
+Sweeteners, Other;Food supply (kcal/capita/day)
+Beans;Food supply quantity (tonnes)
+Beans;Food supply quantity (kg/capita/yr)
+Beans;Food supply quantity (g/capita/day)
+Beans;Food supply (kcal/capita/day)
+Beans;Protein supply quantity (g/capita/day)
+Beans;Fat supply quantity (g/capita/day)
+Peas;Food supply quantity (tonnes)
+Peas;Food supply quantity (kg/capita/yr)
+Peas;Food supply quantity (g/capita/day)
+Peas;Food supply (kcal/capita/day)
+Peas;Protein supply quantity (g/capita/day)
+Peas;Fat supply quantity (g/capita/day)
+Pulses, Other and products;Food supply quantity (tonnes)
+Pulses, Other and products;Food supply quantity (kg/capita/yr)
+Pulses, Other and products;Food supply quantity (g/capita/day)
+Pulses, Other and products;Food supply (kcal/capita/day)
+Pulses, Other and products;Protein supply quantity (g/capita/day)
+Pulses, Other and products;Fat supply quantity (g/capita/day)
+Nuts and products;Food supply quantity (tonnes)
+Nuts and products;Food supply quantity (kg/capita/yr)
+Nuts and products;Food supply quantity (g/capita/day)
+Nuts and products;Food supply (kcal/capita/day)
+Nuts and products;Protein supply quantity (g/capita/day)
+Nuts and products;Fat supply quantity (g/capita/day)
+Soyabeans;Food supply quantity (tonnes)
+Soyabeans;Food supply quantity (kg/capita/yr)
+Soyabeans;Food supply quantity (g/capita/day)
+Soyabeans;Food supply (kcal/capita/day)
+Soyabeans;Protein supply quantity (g/capita/day)
+Groundnuts (Shelled Eq);Food supply quantity (tonnes)
+Groundnuts (Shelled Eq);Food supply quantity (kg/capita/yr)
+Groundnuts (Shelled Eq);Food supply quantity (g/capita/day)
+Groundnuts (Shelled Eq);Food supply (kcal/capita/day)
+Groundnuts (Shelled Eq);Protein supply quantity (g/capita/day)
+Groundnuts (Shelled Eq);Fat supply quantity (g/capita/day)
+Coconuts - Incl Copra;Food supply quantity (tonnes)
+Coconuts - Incl Copra;Food supply quantity (kg/capita/yr)
+Coconuts - Incl Copra;Food supply quantity (g/capita/day)
+Coconuts - Incl Copra;Food supply (kcal/capita/day)
+Coconuts - Incl Copra;Protein supply quantity (g/capita/day)
+Coconuts - Incl Copra;Fat supply quantity (g/capita/day)
+Olives (including preserved);Food supply quantity (tonnes)
+Olives (including preserved);Food supply quantity (kg/capita/yr)
+Olives (including preserved);Food supply quantity (g/capita/day)
+Olives (including preserved);Food supply (kcal/capita/day)
+Olives (including preserved);Fat supply quantity (g/capita/day)
+Soyabean Oil;Food supply quantity (tonnes)
+Soyabean Oil;Food supply quantity (kg/capita/yr)
+Soyabean Oil;Food supply quantity (g/capita/day)
+Soyabean Oil;Food supply (kcal/capita/day)
+Soyabean Oil;Fat supply quantity (g/capita/day)
+Groundnut Oil;Food supply quantity (tonnes)
+Groundnut Oil;Food supply quantity (kg/capita/yr)
+Groundnut Oil;Food supply quantity (g/capita/day)
+Groundnut Oil;Food supply (kcal/capita/day)
+Groundnut Oil;Fat supply quantity (g/capita/day)
+Sunflowerseed Oil;Food supply quantity (tonnes)
+Sunflowerseed Oil;Food supply quantity (kg/capita/yr)
+Sunflowerseed Oil;Food supply quantity (g/capita/day)
+Sunflowerseed Oil;Food supply (kcal/capita/day)
+Sunflowerseed Oil;Fat supply quantity (g/capita/day)
+Coconut Oil;Food supply quantity (tonnes)
+Coconut Oil;Food supply quantity (kg/capita/yr)
+Coconut Oil;Food supply quantity (g/capita/day)
+Coconut Oil;Food supply (kcal/capita/day)
+Coconut Oil;Fat supply quantity (g/capita/day)
+Sesameseed Oil;Food supply (kcal/capita/day)
+Olive Oil;Food supply quantity (tonnes)
+Olive Oil;Food supply quantity (kg/capita/yr)
+Olive Oil;Food supply quantity (g/capita/day)
+Olive Oil;Food supply (kcal/capita/day)
+Olive Oil;Fat supply quantity (g/capita/day)
+Maize Germ Oil;Food supply quantity (tonnes)
+Maize Germ Oil;Food supply quantity (kg/capita/yr)
+Maize Germ Oil;Food supply quantity (g/capita/day)
+Maize Germ Oil;Food supply (kcal/capita/day)
+Maize Germ Oil;Fat supply quantity (g/capita/day)
+Oilcrops Oil, Other;Food supply quantity (tonnes)
+Oilcrops Oil, Other;Food supply quantity (kg/capita/yr)
+Oilcrops Oil, Other;Food supply quantity (g/capita/day)
+Oilcrops Oil, Other;Food supply (kcal/capita/day)
+Oilcrops Oil, Other;Protein supply quantity (g/capita/day)
+Oilcrops Oil, Other;Fat supply quantity (g/capita/day)
+Tomatoes and products;Food supply quantity (tonnes)
+Tomatoes and products;Food supply quantity (kg/capita/yr)
+Tomatoes and products;Food supply quantity (g/capita/day)
+Tomatoes and products;Food supply (kcal/capita/day)
+Tomatoes and products;Protein supply quantity (g/capita/day)
+Tomatoes and products;Fat supply quantity (g/capita/day)
+Onions;Food supply quantity (tonnes)
+Onions;Food supply quantity (kg/capita/yr)
+Onions;Food supply quantity (g/capita/day)
+Onions;Food supply (kcal/capita/day)
+Onions;Protein supply quantity (g/capita/day)
+Onions;Fat supply quantity (g/capita/day)
+Vegetables, Other;Food supply quantity (tonnes)
+Vegetables, Other;Food supply quantity (kg/capita/yr)
+Vegetables, Other;Food supply quantity (g/capita/day)
+Vegetables, Other;Food supply (kcal/capita/day)
+Vegetables, Other;Protein supply quantity (g/capita/day)
+Vegetables, Other;Fat supply quantity (g/capita/day)
+Oranges, Mandarines;Food supply quantity (tonnes)
+Oranges, Mandarines;Food supply quantity (kg/capita/yr)
+Oranges, Mandarines;Food supply quantity (g/capita/day)
+Oranges, Mandarines;Food supply (kcal/capita/day)
+Oranges, Mandarines;Protein supply quantity (g/capita/day)
+Oranges, Mandarines;Fat supply quantity (g/capita/day)
+Lemons, Limes and products;Food supply quantity (tonnes)
+Lemons, Limes and products;Food supply quantity (kg/capita/yr)
+Lemons, Limes and products;Food supply quantity (g/capita/day)
+Lemons, Limes and products;Food supply (kcal/capita/day)
+Lemons, Limes and products;Protein supply quantity (g/capita/day)
+Grapefruit and products;Food supply quantity (tonnes)
+Grapefruit and products;Food supply quantity (kg/capita/yr)
+Grapefruit and products;Food supply quantity (g/capita/day)
+Grapefruit and products;Food supply (kcal/capita/day)
+Citrus, Other;Food supply quantity (tonnes)
+Citrus, Other;Food supply quantity (kg/capita/yr)
+Citrus, Other;Food supply quantity (g/capita/day)
+Citrus, Other;Food supply (kcal/capita/day)
+Bananas;Food supply quantity (tonnes)
+Bananas;Food supply quantity (kg/capita/yr)
+Bananas;Food supply quantity (g/capita/day)
+Bananas;Food supply (kcal/capita/day)
+Bananas;Protein supply quantity (g/capita/day)
+Bananas;Fat supply quantity (g/capita/day)
+Apples and products;Food supply quantity (tonnes)
+Apples and products;Food supply quantity (kg/capita/yr)
+Apples and products;Food supply quantity (g/capita/day)
+Apples and products;Food supply (kcal/capita/day)
+Apples and products;Protein supply quantity (g/capita/day)
+Apples and products;Fat supply quantity (g/capita/day)
+Pineapples and products;Food supply quantity (tonnes)
+Pineapples and products;Food supply quantity (kg/capita/yr)
+Pineapples and products;Food supply quantity (g/capita/day)
+Pineapples and products;Food supply (kcal/capita/day)
+Pineapples and products;Protein supply quantity (g/capita/day)
+Dates;Food supply quantity (tonnes)
+Dates;Food supply quantity (kg/capita/yr)
+Dates;Food supply quantity (g/capita/day)
+Dates;Food supply (kcal/capita/day)
+Grapes and products (excl wine);Food supply quantity (tonnes)
+Grapes and products (excl wine);Food supply quantity (kg/capita/yr)
+Grapes and products (excl wine);Food supply quantity (g/capita/day)
+Grapes and products (excl wine);Food supply (kcal/capita/day)
+Grapes and products (excl wine);Protein supply quantity (g/capita/day)
+Fruits, Other;Food supply quantity (tonnes)
+Fruits, Other;Food supply quantity (kg/capita/yr)
+Fruits, Other;Food supply quantity (g/capita/day)
+Fruits, Other;Food supply (kcal/capita/day)
+Fruits, Other;Protein supply quantity (g/capita/day)
+Fruits, Other;Fat supply quantity (g/capita/day)
+Coffee and products;Food supply quantity (tonnes)
+Coffee and products;Food supply quantity (kg/capita/yr)
+Coffee and products;Food supply quantity (g/capita/day)
+Coffee and products;Food supply (kcal/capita/day)
+Coffee and products;Protein supply quantity (g/capita/day)
+Cocoa Beans and products;Food supply quantity (tonnes)
+Cocoa Beans and products;Food supply quantity (kg/capita/yr)
+Cocoa Beans and products;Food supply quantity (g/capita/day)
+Cocoa Beans and products;Food supply (kcal/capita/day)
+Cocoa Beans and products;Protein supply quantity (g/capita/day)
+Cocoa Beans and products;Fat supply quantity (g/capita/day)
+Tea (including mate);Food supply quantity (tonnes)
+Tea (including mate);Food supply quantity (kg/capita/yr)
+Tea (including mate);Food supply quantity (g/capita/day)
+Tea (including mate);Food supply (kcal/capita/day)
+Tea (including mate);Protein supply quantity (g/capita/day)
+Pepper;Food supply quantity (tonnes)
+Pepper;Food supply quantity (kg/capita/yr)
+Pepper;Food supply quantity (g/capita/day)
+Pepper;Food supply (kcal/capita/day)
+Pepper;Protein supply quantity (g/capita/day)
+Pepper;Fat supply quantity (g/capita/day)
+Pimento;Food supply quantity (tonnes)
+Pimento;Food supply quantity (kg/capita/yr)
+Pimento;Food supply quantity (g/capita/day)
+Pimento;Food supply (kcal/capita/day)
+Pimento;Protein supply quantity (g/capita/day)
+Pimento;Fat supply quantity (g/capita/day)
+Cloves;Food supply (kcal/capita/day)
+Spices, Other;Food supply quantity (tonnes)
+Spices, Other;Food supply quantity (kg/capita/yr)
+Spices, Other;Food supply quantity (g/capita/day)
+Spices, Other;Food supply (kcal/capita/day)
+Spices, Other;Protein supply quantity (g/capita/day)
+Spices, Other;Fat supply quantity (g/capita/day)
+Wine;Food supply quantity (tonnes)
+Wine;Food supply quantity (kg/capita/yr)
+Wine;Food supply quantity (g/capita/day)
+Wine;Food supply (kcal/capita/day)
+Beer;Food supply quantity (tonnes)
+Beer;Food supply quantity (kg/capita/yr)
+Beer;Food supply quantity (g/capita/day)
+Beer;Food supply (kcal/capita/day)
+Beer;Protein supply quantity (g/capita/day)
+Beverages, Fermented;Food supply quantity (tonnes)
+Beverages, Fermented;Food supply quantity (kg/capita/yr)
+Beverages, Fermented;Food supply quantity (g/capita/day)
+Beverages, Fermented;Food supply (kcal/capita/day)
+Beverages, Alcoholic;Food supply quantity (tonnes)
+Beverages, Alcoholic;Food supply quantity (kg/capita/yr)
+Beverages, Alcoholic;Food supply quantity (g/capita/day)
+Beverages, Alcoholic;Food supply (kcal/capita/day)
+Infant food;Food supply quantity (tonnes)
+Infant food;Food supply quantity (kg/capita/yr)
+Infant food;Food supply quantity (g/capita/day)
+Infant food;Food supply (kcal/capita/day)
+Infant food;Protein supply quantity (g/capita/day)
+Infant food;Fat supply quantity (g/capita/day)
+Bovine Meat;Food supply quantity (tonnes)
+Bovine Meat;Food supply quantity (kg/capita/yr)
+Bovine Meat;Food supply quantity (g/capita/day)
+Bovine Meat;Food supply (kcal/capita/day)
+Bovine Meat;Protein supply quantity (g/capita/day)
+Bovine Meat;Fat supply quantity (g/capita/day)
+Mutton & Goat Meat;Food supply quantity (tonnes)
+Mutton & Goat Meat;Food supply quantity (kg/capita/yr)
+Mutton & Goat Meat;Food supply quantity (g/capita/day)
+Mutton & Goat Meat;Food supply (kcal/capita/day)
+Mutton & Goat Meat;Protein supply quantity (g/capita/day)
+Mutton & Goat Meat;Fat supply quantity (g/capita/day)
+Pigmeat;Food supply quantity (tonnes)
+Pigmeat;Food supply quantity (kg/capita/yr)
+Pigmeat;Food supply quantity (g/capita/day)
+Pigmeat;Food supply (kcal/capita/day)
+Pigmeat;Protein supply quantity (g/capita/day)
+Pigmeat;Fat supply quantity (g/capita/day)
+Poultry Meat;Food supply quantity (tonnes)
+Poultry Meat;Food supply quantity (kg/capita/yr)
+Poultry Meat;Food supply quantity (g/capita/day)
+Poultry Meat;Food supply (kcal/capita/day)
+Poultry Meat;Protein supply quantity (g/capita/day)
+Poultry Meat;Fat supply quantity (g/capita/day)
+Meat, Other;Food supply quantity (tonnes)
+Meat, Other;Food supply quantity (kg/capita/yr)
+Meat, Other;Food supply quantity (g/capita/day)
+Meat, Other;Food supply (kcal/capita/day)
+Meat, Other;Protein supply quantity (g/capita/day)
+Meat, Other;Fat supply quantity (g/capita/day)
+Offals, Edible;Food supply quantity (tonnes)
+Offals, Edible;Food supply quantity (kg/capita/yr)
+Offals, Edible;Food supply quantity (g/capita/day)
+Offals, Edible;Food supply (kcal/capita/day)
+Offals, Edible;Protein supply quantity (g/capita/day)
+Offals, Edible;Fat supply quantity (g/capita/day)
+Fats, Animals, Raw;Food supply quantity (tonnes)
+Fats, Animals, Raw;Food supply quantity (kg/capita/yr)
+Fats, Animals, Raw;Food supply quantity (g/capita/day)
+Fats, Animals, Raw;Food supply (kcal/capita/day)
+Fats, Animals, Raw;Protein supply quantity (g/capita/day)
+Fats, Animals, Raw;Fat supply quantity (g/capita/day)
+Milk, Whole;Food supply quantity (tonnes)
+Milk, Whole;Food supply quantity (kg/capita/yr)
+Milk, Whole;Food supply quantity (g/capita/day)
+Milk, Whole;Food supply (kcal/capita/day)
+Milk, Whole;Protein supply quantity (g/capita/day)
+Milk, Whole;Fat supply quantity (g/capita/day)
+Butter, Ghee;Food supply quantity (tonnes)
+Butter, Ghee;Food supply quantity (kg/capita/yr)
+Butter, Ghee;Food supply quantity (g/capita/day)
+Butter, Ghee;Food supply (kcal/capita/day)
+Butter, Ghee;Protein supply quantity (g/capita/day)
+Butter, Ghee;Fat supply quantity (g/capita/day)
+Cheese;Food supply quantity (tonnes)
+Cheese;Food supply quantity (kg/capita/yr)
+Cheese;Food supply quantity (g/capita/day)
+Cheese;Food supply (kcal/capita/day)
+Cheese;Protein supply quantity (g/capita/day)
+Cheese;Fat supply quantity (g/capita/day)
+Cream;Food supply quantity (tonnes)
+Cream;Food supply quantity (kg/capita/yr)
+Cream;Food supply quantity (g/capita/day)
+Cream;Food supply (kcal/capita/day)
+Cream;Protein supply quantity (g/capita/day)
+Cream;Fat supply quantity (g/capita/day)
+Eggs;Food supply quantity (tonnes)
+Eggs;Food supply quantity (kg/capita/yr)
+Eggs;Food supply quantity (g/capita/day)
+Eggs;Food supply (kcal/capita/day)
+Eggs;Protein supply quantity (g/capita/day)
+Eggs;Fat supply quantity (g/capita/day)
+Honey;Food supply quantity (tonnes)
+Honey;Food supply quantity (kg/capita/yr)
+Honey;Food supply quantity (g/capita/day)
+Honey;Food supply (kcal/capita/day)
+Freshwater Fish;Food supply quantity (tonnes)
+Freshwater Fish;Food supply quantity (kg/capita/yr)
+Freshwater Fish;Food supply quantity (g/capita/day)
+Freshwater Fish;Food supply (kcal/capita/day)
+Freshwater Fish;Protein supply quantity (g/capita/day)
+Freshwater Fish;Fat supply quantity (g/capita/day)
+Demersal Fish;Food supply quantity (tonnes)
+Demersal Fish;Food supply quantity (kg/capita/yr)
+Demersal Fish;Food supply quantity (g/capita/day)
+Demersal Fish;Food supply (kcal/capita/day)
+Demersal Fish;Protein supply quantity (g/capita/day)
+Demersal Fish;Fat supply quantity (g/capita/day)
+Pelagic Fish;Food supply quantity (tonnes)
+Pelagic Fish;Food supply quantity (kg/capita/yr)
+Pelagic Fish;Food supply quantity (g/capita/day)
+Pelagic Fish;Food supply (kcal/capita/day)
+Pelagic Fish;Protein supply quantity (g/capita/day)
+Pelagic Fish;Fat supply quantity (g/capita/day)
+Marine Fish, Other;Food supply quantity (tonnes)
+Marine Fish, Other;Food supply quantity (kg/capita/yr)
+Marine Fish, Other;Food supply quantity (g/capita/day)
+Marine Fish, Other;Food supply (kcal/capita/day)
+Marine Fish, Other;Protein supply quantity (g/capita/day)
+Marine Fish, Other;Fat supply quantity (g/capita/day)
+Crustaceans;Food supply quantity (tonnes)
+Crustaceans;Food supply quantity (kg/capita/yr)
+Crustaceans;Food supply quantity (g/capita/day)
+Crustaceans;Food supply (kcal/capita/day)
+Crustaceans;Protein supply quantity (g/capita/day)
+Crustaceans;Fat supply quantity (g/capita/day)
+Cephalopods;Food supply quantity (tonnes)
+Cephalopods;Food supply quantity (kg/capita/yr)
+Cephalopods;Food supply quantity (g/capita/day)
+Cephalopods;Food supply (kcal/capita/day)
+Cephalopods;Protein supply quantity (g/capita/day)
+Cephalopods;Fat supply quantity (g/capita/day)
+Molluscs, Other;Food supply quantity (tonnes)
+Molluscs, Other;Food supply quantity (kg/capita/yr)
+Molluscs, Other;Food supply quantity (g/capita/day)
+Molluscs, Other;Food supply (kcal/capita/day)
+Molluscs, Other;Protein supply quantity (g/capita/day)
+Molluscs, Other;Fat supply quantity (g/capita/day)
+Aquatic Plants;Food supply quantity (tonnes)
+Aquatic Plants;Food supply quantity (kg/capita/yr)
+Aquatic Plants;Food supply quantity (g/capita/day)
+Aquatic Plants;Food supply (kcal/capita/day)
+Aquatic Plants;Protein supply quantity (g/capita/day)
+Aquatic Plants;Fat supply quantity (g/capita/day)
+Fish, Body Oil;Food supply quantity (tonnes)
+Fish, Body Oil;Food supply quantity (kg/capita/yr)
+Fish, Body Oil;Food supply quantity (g/capita/day)
+Fish, Body Oil;Food supply (kcal/capita/day)
+Fish, Body Oil;Protein supply quantity (g/capita/day)
+Fish, Body Oil;Fat supply quantity (g/capita/day)
+Fish, Liver Oil;Food supply quantity (tonnes)
+Fish, Liver Oil;Food supply quantity (kg/capita/yr)
+Fish, Liver Oil;Food supply quantity (g/capita/day)
+Fish, Liver Oil;Food supply (kcal/capita/day)
+Fish, Liver Oil;Protein supply quantity (g/capita/day)
+Fish, Liver Oil;Fat supply quantity (g/capita/day)
+Rice (Paddy Equivalent);Food supply quantity (tonnes)
+Rice (Paddy Equivalent);Food supply quantity (kg/capita/yr)
+Rice (Paddy Equivalent);Food supply quantity (g/capita/day)
+Rice (Paddy Equivalent);Food supply (kcal/capita/day)
+Rice (Paddy Equivalent);Protein supply quantity (g/capita/day)
+Rice (Paddy Equivalent);Fat supply quantity (g/capita/day)
+Rice (Milled Equivalent);Food supply quantity (tonnes)
+Rice (Milled Equivalent);Food supply quantity (kg/capita/yr)
+Rice (Milled Equivalent);Food supply quantity (g/capita/day)
+Rice (Milled Equivalent);Food supply (kcal/capita/day)
+Rice (Milled Equivalent);Protein supply quantity (g/capita/day)
+Rice (Milled Equivalent);Fat supply quantity (g/capita/day)
+Roots & Tuber Dry Equiv;Food supply quantity (tonnes)
+Roots & Tuber Dry Equiv;Food supply quantity (kg/capita/yr)
+Roots & Tuber Dry Equiv;Food supply quantity (g/capita/day)
+Roots & Tuber Dry Equiv;Food supply (kcal/capita/day)
+Roots & Tuber Dry Equiv;Protein supply quantity (g/capita/day)
+Roots & Tuber Dry Equiv;Fat supply quantity (g/capita/day)
+Sugar, Refined Equiv;Food supply quantity (tonnes)
+Sugar, Refined Equiv;Food supply quantity (kg/capita/yr)
+Sugar, Refined Equiv;Food supply quantity (g/capita/day)
+Sugar, Refined Equiv;Food supply (kcal/capita/day)
+Groundnuts (in Shell Eq);Food supply quantity (tonnes)
+Groundnuts (in Shell Eq);Food supply quantity (kg/capita/yr)
+Groundnuts (in Shell Eq);Food supply quantity (g/capita/day)
+Groundnuts (in Shell Eq);Food supply (kcal/capita/day)
+Groundnuts (in Shell Eq);Protein supply quantity (g/capita/day)
+Groundnuts (in Shell Eq);Fat supply quantity (g/capita/day)
+Sugar, Raw Equivalent;Food supply quantity (tonnes)
+Sugar, Raw Equivalent;Food supply quantity (kg/capita/yr)
+Sugar, Raw Equivalent;Food supply quantity (g/capita/day)
+Sugar, Raw Equivalent;Food supply (kcal/capita/day)
+Milk - Excluding Butter;Food supply quantity (tonnes)
+Milk - Excluding Butter;Food supply quantity (kg/capita/yr)
+Milk - Excluding Butter;Food supply quantity (g/capita/day)
+Milk - Excluding Butter;Food supply (kcal/capita/day)
+Milk - Excluding Butter;Protein supply quantity (g/capita/day)
+Milk - Excluding Butter;Fat supply quantity (g/capita/day)
+Miscellaneous;Food supply (kcal/capita/day)
+Miscellaneous;Protein supply quantity (g/capita/day)
+Miscellaneous;Fat supply quantity (g/capita/day)
+Cereals - Excluding Beer;Food supply quantity (tonnes)
+Cereals - Excluding Beer;Food supply quantity (g/capita/day)
+Starchy Roots;Food supply quantity (tonnes)
+Starchy Roots;Food supply quantity (g/capita/day)
+Sugar & Sweeteners;Food supply quantity (tonnes)
+Sugar & Sweeteners;Food supply quantity (g/capita/day)
+Pulses;Food supply quantity (tonnes)
+Pulses;Food supply quantity (g/capita/day)
+Treenuts;Food supply quantity (tonnes)
+Treenuts;Food supply quantity (g/capita/day)
+Oilcrops;Food supply quantity (tonnes)
+Oilcrops;Food supply quantity (g/capita/day)
+Vegetable Oils;Food supply quantity (tonnes)
+Vegetable Oils;Food supply quantity (g/capita/day)
+Vegetables;Food supply quantity (tonnes)
+Vegetables;Food supply quantity (g/capita/day)
+Fruits - Excluding Wine;Food supply quantity (tonnes)
+Fruits - Excluding Wine;Food supply quantity (g/capita/day)
+Stimulants;Food supply quantity (tonnes)
+Stimulants;Food supply quantity (g/capita/day)
+Spices;Food supply quantity (tonnes)
+Spices;Food supply quantity (g/capita/day)
+Alcoholic Beverages;Food supply quantity (tonnes)
+Alcoholic Beverages;Food supply quantity (g/capita/day)
+Miscellaneous;Food supply quantity (tonnes)
+Miscellaneous;Food supply quantity (g/capita/day)
+Meat;Food supply quantity (tonnes)
+Meat;Food supply quantity (g/capita/day)
+Offals;Food supply quantity (tonnes)
+Offals;Food supply quantity (g/capita/day)
+Animal fats;Food supply quantity (tonnes)
+Animal fats;Food supply quantity (g/capita/day)
+Milk - Excluding Butter;Food supply quantity (tonnes)
+Milk - Excluding Butter;Food supply quantity (g/capita/day)
+Eggs;Food supply quantity (tonnes)
+Eggs;Food supply quantity (g/capita/day)
+Fish, Seafood;Food supply quantity (tonnes)
+Fish, Seafood;Food supply quantity (g/capita/day)
+Aquatic Products, Other;Food supply quantity (tonnes)
+Aquatic Products, Other;Food supply quantity (g/capita/day)
+Goats;Implied emission factor for CH4 (Enteric)
+Goats;Implied emission factor for CH4 (Manure management)
+Goats;Emissions (CH4) (Enteric)
+Goats;Emissions (CH4) (Manure management)
+Goats;Implied emission factor for N2O (Manure on pasture)
+Goats;Implied emission factor for N2O (Manure applied)
+Goats;Emissions (N2O) (Manure on pasture)
+Goats;Emissions (N2O) (Manure applied)
+Goats;Emissions (N2O) (Manure management)
+Goats;Emissions (CO2eq) (Manure on pasture)
+Goats;Emissions (CO2eq) (Manure applied)
+Goats;Emissions (CO2eq) (Enteric)
+Goats;Emissions (CO2eq) (Manure management)
+Goats;Direct emissions (N2O) (Manure on pasture)
+Goats;Direct emissions (N2O) (Manure applied)
+Goats;Direct emissions (N2O) (Manure management)
+Goats;Direct emissions (CO2eq) (Manure on pasture)
+Goats;Direct emissions (CO2eq) (Manure applied)
+Goats;Direct emissions (CO2eq) (Manure management)
+Goats;Indirect emissions (N2O) (Manure on pasture)
+Goats;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Goats;Indirect emissions (N2O that leaches) (Manure on pasture)
+Goats;Indirect emissions (N2O) (Manure applied)
+Goats;Indirect emissions (N2O) (Manure management)
+Goats;Indirect emissions (CO2eq) (Manure on pasture)
+Goats;Indirect emissions (CO2eq) (Manure applied)
+Goats;Indirect emissions (CO2eq) (Manure management)
+Goats;Manure (N content) (Manure on pasture)
+Goats;Manure (N content that volatilises) (Manure on pasture)
+Goats;Manure (N content that leaches) (Manure on pasture)
+Goats;Manure (N content) (Manure applied)
+Goats;Manure (N content) (Manure management)
+Goats;Emissions (CO2eq) from N2O (Manure management)
+Goats;Emissions (CO2eq) from CH4 (Manure management)
+Swine;Stocks
+Swine;Implied emission factor for CH4 (Enteric)
+Swine;Emissions (CH4) (Enteric)
+Swine;Emissions (CH4) (Manure management)
+Swine;Emissions (N2O) (Manure on pasture)
+Swine;Emissions (N2O) (Manure applied)
+Swine;Emissions (N2O) (Manure management)
+Swine;Emissions (CO2eq) (Manure on pasture)
+Swine;Emissions (CO2eq) (Manure applied)
+Swine;Emissions (CO2eq) (Enteric)
+Swine;Emissions (CO2eq) (Manure management)
+Swine;Direct emissions (N2O) (Manure on pasture)
+Swine;Direct emissions (N2O) (Manure applied)
+Swine;Direct emissions (N2O) (Manure management)
+Swine;Direct emissions (CO2eq) (Manure on pasture)
+Swine;Direct emissions (CO2eq) (Manure applied)
+Swine;Direct emissions (CO2eq) (Manure management)
+Swine;Indirect emissions (N2O) (Manure on pasture)
+Swine;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Swine;Indirect emissions (N2O that leaches) (Manure on pasture)
+Swine;Indirect emissions (N2O) (Manure applied)
+Swine;Indirect emissions (N2O) (Manure management)
+Swine;Indirect emissions (CO2eq) (Manure on pasture)
+Swine;Indirect emissions (CO2eq) (Manure applied)
+Swine;Indirect emissions (CO2eq) (Manure management)
+Swine;Manure (N content) (Manure on pasture)
+Swine;Manure (N content that volatilises) (Manure on pasture)
+Swine;Manure (N content that leaches) (Manure on pasture)
+Swine;Manure (N content) (Manure applied)
+Swine;Manure (N content) (Manure management)
+Swine;Emissions (CO2eq) from N2O (Manure management)
+Swine;Emissions (CO2eq) from CH4 (Manure management)
+Swine, market;Stocks
+Swine, market;Implied emission factor for CH4 (Enteric)
+Swine, market;Implied emission factor for CH4 (Manure management)
+Swine, market;Emissions (CH4) (Enteric)
+Swine, market;Emissions (CH4) (Manure management)
+Swine, market;Implied emission factor for N2O (Manure applied)
+Swine, market;Implied emission factor for N2O (Manure management)
+Swine, market;Emissions (N2O) (Manure on pasture)
+Swine, market;Emissions (N2O) (Manure applied)
+Swine, market;Emissions (N2O) (Manure management)
+Swine, market;Emissions (CO2eq) (Manure on pasture)
+Swine, market;Emissions (CO2eq) (Manure applied)
+Swine, market;Emissions (CO2eq) (Enteric)
+Swine, market;Emissions (CO2eq) (Manure management)
+Swine, market;Direct emissions (N2O) (Manure on pasture)
+Swine, market;Direct emissions (N2O) (Manure applied)
+Swine, market;Direct emissions (N2O) (Manure management)
+Swine, market;Direct emissions (CO2eq) (Manure on pasture)
+Swine, market;Direct emissions (CO2eq) (Manure applied)
+Swine, market;Direct emissions (CO2eq) (Manure management)
+Swine, market;Indirect emissions (N2O) (Manure on pasture)
+Swine, market;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Swine, market;Indirect emissions (N2O that leaches) (Manure on pasture)
+Swine, market;Indirect emissions (N2O) (Manure applied)
+Swine, market;Indirect emissions (N2O) (Manure management)
+Swine, market;Indirect emissions (CO2eq) (Manure on pasture)
+Swine, market;Indirect emissions (CO2eq) (Manure applied)
+Swine, market;Indirect emissions (CO2eq) (Manure management)
+Swine, market;Manure (N content) (Manure on pasture)
+Swine, market;Manure (N content that volatilises) (Manure on pasture)
+Swine, market;Manure (N content that leaches) (Manure on pasture)
+Swine, market;Manure (N content) (Manure applied)
+Swine, market;Manure (N content) (Manure management)
+Swine, market;Emissions (CO2eq) from N2O (Manure management)
+Swine, market;Emissions (CO2eq) from CH4 (Manure management)
+Swine, breeding;Stocks
+Swine, breeding;Implied emission factor for CH4 (Enteric)
+Swine, breeding;Implied emission factor for CH4 (Manure management)
+Swine, breeding;Emissions (CH4) (Enteric)
+Swine, breeding;Emissions (CH4) (Manure management)
+Swine, breeding;Implied emission factor for N2O (Manure applied)
+Swine, breeding;Implied emission factor for N2O (Manure management)
+Swine, breeding;Emissions (N2O) (Manure on pasture)
+Swine, breeding;Emissions (N2O) (Manure applied)
+Swine, breeding;Emissions (N2O) (Manure management)
+Swine, breeding;Emissions (CO2eq) (Manure on pasture)
+Swine, breeding;Emissions (CO2eq) (Manure applied)
+Swine, breeding;Emissions (CO2eq) (Enteric)
+Swine, breeding;Emissions (CO2eq) (Manure management)
+Swine, breeding;Direct emissions (N2O) (Manure on pasture)
+Swine, breeding;Direct emissions (N2O) (Manure applied)
+Swine, breeding;Direct emissions (N2O) (Manure management)
+Swine, breeding;Direct emissions (CO2eq) (Manure on pasture)
+Swine, breeding;Direct emissions (CO2eq) (Manure applied)
+Swine, breeding;Direct emissions (CO2eq) (Manure management)
+Swine, breeding;Indirect emissions (N2O) (Manure on pasture)
+Swine, breeding;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Swine, breeding;Indirect emissions (N2O that leaches) (Manure on pasture)
+Swine, breeding;Indirect emissions (N2O) (Manure applied)
+Swine, breeding;Indirect emissions (N2O) (Manure management)
+Swine, breeding;Indirect emissions (CO2eq) (Manure on pasture)
+Swine, breeding;Indirect emissions (CO2eq) (Manure applied)
+Swine, breeding;Indirect emissions (CO2eq) (Manure management)
+Swine, breeding;Manure (N content) (Manure on pasture)
+Swine, breeding;Manure (N content that volatilises) (Manure on pasture)
+Swine, breeding;Manure (N content that leaches) (Manure on pasture)
+Swine, breeding;Manure (N content) (Manure applied)
+Swine, breeding;Manure (N content) (Manure management)
+Swine, breeding;Emissions (CO2eq) from N2O (Manure management)
+Swine, breeding;Emissions (CO2eq) from CH4 (Manure management)
+Chickens, layers;Stocks
+Chickens, layers;Implied emission factor for CH4 (Manure management)
+Chickens, layers;Emissions (CH4) (Manure management)
+Chickens, layers;Implied emission factor for N2O (Manure on pasture)
+Chickens, layers;Implied emission factor for N2O (Manure applied)
+Chickens, layers;Implied emission factor for N2O (Manure management)
+Chickens, layers;Emissions (N2O) (Manure on pasture)
+Chickens, layers;Emissions (N2O) (Manure applied)
+Chickens, layers;Emissions (N2O) (Manure management)
+Chickens, layers;Emissions (CO2eq) (Manure on pasture)
+Chickens, layers;Emissions (CO2eq) (Manure applied)
+Chickens, layers;Emissions (CO2eq) (Manure management)
+Chickens, layers;Direct emissions (N2O) (Manure on pasture)
+Chickens, layers;Direct emissions (N2O) (Manure applied)
+Chickens, layers;Direct emissions (N2O) (Manure management)
+Chickens, layers;Direct emissions (CO2eq) (Manure on pasture)
+Chickens, layers;Direct emissions (CO2eq) (Manure applied)
+Chickens, layers;Direct emissions (CO2eq) (Manure management)
+Chickens, layers;Indirect emissions (N2O) (Manure on pasture)
+Chickens, layers;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Chickens, layers;Indirect emissions (N2O that leaches) (Manure on pasture)
+Chickens, layers;Indirect emissions (N2O) (Manure applied)
+Chickens, layers;Indirect emissions (N2O) (Manure management)
+Chickens, layers;Indirect emissions (CO2eq) (Manure on pasture)
+Chickens, layers;Indirect emissions (CO2eq) (Manure applied)
+Chickens, layers;Indirect emissions (CO2eq) (Manure management)
+Chickens, layers;Manure (N content) (Manure on pasture)
+Chickens, layers;Manure (N content that volatilises) (Manure on pasture)
+Chickens, layers;Manure (N content that leaches) (Manure on pasture)
+Chickens, layers;Manure (N content) (Manure applied)
+Chickens, layers;Manure (N content) (Manure management)
+Chickens, layers;Emissions (CO2eq) from N2O (Manure management)
+Chickens, layers;Emissions (CO2eq) from CH4 (Manure management)
+Chickens, broilers;Stocks
+Chickens, broilers;Implied emission factor for CH4 (Manure management)
+Chickens, broilers;Emissions (CH4) (Manure management)
+Chickens, broilers;Implied emission factor for N2O (Manure on pasture)
+Chickens, broilers;Implied emission factor for N2O (Manure applied)
+Chickens, broilers;Implied emission factor for N2O (Manure management)
+Chickens, broilers;Emissions (N2O) (Manure on pasture)
+Chickens, broilers;Emissions (N2O) (Manure applied)
+Chickens, broilers;Emissions (N2O) (Manure management)
+Chickens, broilers;Emissions (CO2eq) (Manure on pasture)
+Chickens, broilers;Emissions (CO2eq) (Manure applied)
+Chickens, broilers;Emissions (CO2eq) (Manure management)
+Chickens, broilers;Direct emissions (N2O) (Manure on pasture)
+Chickens, broilers;Direct emissions (N2O) (Manure applied)
+Chickens, broilers;Direct emissions (N2O) (Manure management)
+Chickens, broilers;Direct emissions (CO2eq) (Manure on pasture)
+Chickens, broilers;Direct emissions (CO2eq) (Manure applied)
+Chickens, broilers;Direct emissions (CO2eq) (Manure management)
+Chickens, broilers;Indirect emissions (N2O) (Manure on pasture)
+Chickens, broilers;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Chickens, broilers;Indirect emissions (N2O that leaches) (Manure on pasture)
+Chickens, broilers;Indirect emissions (N2O) (Manure applied)
+Chickens, broilers;Indirect emissions (N2O) (Manure management)
+Chickens, broilers;Indirect emissions (CO2eq) (Manure on pasture)
+Chickens, broilers;Indirect emissions (CO2eq) (Manure applied)
+Chickens, broilers;Indirect emissions (CO2eq) (Manure management)
+Chickens, broilers;Manure (N content) (Manure on pasture)
+Chickens, broilers;Manure (N content that volatilises) (Manure on pasture)
+Chickens, broilers;Manure (N content that leaches) (Manure on pasture)
+Chickens, broilers;Manure (N content) (Manure applied)
+Chickens, broilers;Manure (N content) (Manure management)
+Chickens, broilers;Emissions (CO2eq) from N2O (Manure management)
+Chickens, broilers;Emissions (CO2eq) from CH4 (Manure management)
+Chickens;Stocks
+Chickens;Emissions (CH4) (Manure management)
+Chickens;Emissions (N2O) (Manure on pasture)
+Chickens;Emissions (N2O) (Manure applied)
+Chickens;Emissions (N2O) (Manure management)
+Chickens;Emissions (CO2eq) (Manure on pasture)
+Chickens;Emissions (CO2eq) (Manure applied)
+Chickens;Emissions (CO2eq) (Manure management)
+Chickens;Direct emissions (N2O) (Manure on pasture)
+Chickens;Direct emissions (N2O) (Manure applied)
+Chickens;Direct emissions (N2O) (Manure management)
+Chickens;Direct emissions (CO2eq) (Manure on pasture)
+Chickens;Direct emissions (CO2eq) (Manure applied)
+Chickens;Direct emissions (CO2eq) (Manure management)
+Chickens;Indirect emissions (N2O) (Manure on pasture)
+Chickens;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Chickens;Indirect emissions (N2O that leaches) (Manure on pasture)
+Chickens;Indirect emissions (N2O) (Manure applied)
+Chickens;Indirect emissions (N2O) (Manure management)
+Chickens;Indirect emissions (CO2eq) (Manure on pasture)
+Chickens;Indirect emissions (CO2eq) (Manure applied)
+Chickens;Indirect emissions (CO2eq) (Manure management)
+Chickens;Manure (N content) (Manure on pasture)
+Chickens;Manure (N content that volatilises) (Manure on pasture)
+Chickens;Manure (N content that leaches) (Manure on pasture)
+Chickens;Manure (N content) (Manure applied)
+Chickens;Manure (N content) (Manure management)
+Chickens;Emissions (CO2eq) from N2O (Manure management)
+Chickens;Emissions (CO2eq) from CH4 (Manure management)
+Horses;Implied emission factor for CH4 (Enteric)
+Horses;Implied emission factor for CH4 (Manure management)
+Horses;Emissions (CH4) (Enteric)
+Horses;Emissions (CH4) (Manure management)
+Horses;Implied emission factor for N2O (Manure on pasture)
+Horses;Emissions (N2O) (Manure on pasture)
+Horses;Emissions (N2O) (Manure applied)
+Horses;Emissions (N2O) (Manure management)
+Horses;Emissions (CO2eq) (Manure on pasture)
+Horses;Emissions (CO2eq) (Manure applied)
+Horses;Emissions (CO2eq) (Enteric)
+Horses;Emissions (CO2eq) (Manure management)
+Horses;Direct emissions (N2O) (Manure on pasture)
+Horses;Direct emissions (N2O) (Manure applied)
+Horses;Direct emissions (N2O) (Manure management)
+Horses;Direct emissions (CO2eq) (Manure on pasture)
+Horses;Direct emissions (CO2eq) (Manure applied)
+Horses;Direct emissions (CO2eq) (Manure management)
+Horses;Indirect emissions (N2O) (Manure on pasture)
+Horses;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Horses;Indirect emissions (N2O that leaches) (Manure on pasture)
+Horses;Indirect emissions (N2O) (Manure applied)
+Horses;Indirect emissions (N2O) (Manure management)
+Horses;Indirect emissions (CO2eq) (Manure on pasture)
+Horses;Indirect emissions (CO2eq) (Manure applied)
+Horses;Indirect emissions (CO2eq) (Manure management)
+Horses;Manure (N content) (Manure on pasture)
+Horses;Manure (N content that volatilises) (Manure on pasture)
+Horses;Manure (N content that leaches) (Manure on pasture)
+Horses;Manure (N content) (Manure applied)
+Horses;Manure (N content) (Manure management)
+Horses;Emissions (CO2eq) from N2O (Manure management)
+Horses;Emissions (CO2eq) from CH4 (Manure management)
+Potatoes;Emissions (N2O) (Crop residues)
+Potatoes;Emissions (CO2eq) (Crop residues)
+Potatoes;Direct emissions (N2O) (Crop residues)
+Potatoes;Direct emissions (CO2eq) (Crop residues)
+Potatoes;Indirect emissions (N2O) (Crop residues)
+Potatoes;Indirect emissions (CO2eq) (Crop residues)
+Potatoes;Residues (Crop residues)
+Nitrogenous fertilizers;Consumption
+Agricultural Soils;Emissions (CO2eq)
+Agricultural Soils;Emissions (CO2eq) from N2O
+All Crops;Emissions (CH4) (Burning crop residues)
+All Crops;Emissions (N2O) (Crop residues)
+All Crops;Emissions (N2O) (Burning crop residues)
+All Crops;Emissions (CO2eq) (Crop residues)
+All Crops;Emissions (CO2eq) (Burning crop residues)
+All Crops;Direct emissions (N2O) (Crop residues)
+All Crops;Direct emissions (CO2eq) (Crop residues)
+All Crops;Indirect emissions (N2O) (Crop residues)
+All Crops;Indirect emissions (CO2eq) (Crop residues)
+All Crops;Residues (Crop residues)
+All Crops;Emissions (CO2eq) from N2O (Burning crop residues)
+All Crops;Emissions (CO2eq) from CH4 (Burning crop residues)
+All Crops;Biomass burned (dry matter)
+Sheep and Goats;Implied emission factor for CH4 (Enteric)
+Sheep and Goats;Emissions (CH4) (Enteric)
+Sheep and Goats;Emissions (CH4) (Manure management)
+Sheep and Goats;Emissions (N2O) (Manure on pasture)
+Sheep and Goats;Emissions (N2O) (Manure applied)
+Sheep and Goats;Emissions (N2O) (Manure management)
+Sheep and Goats;Emissions (CO2eq) (Manure on pasture)
+Sheep and Goats;Emissions (CO2eq) (Manure applied)
+Sheep and Goats;Emissions (CO2eq) (Enteric)
+Sheep and Goats;Emissions (CO2eq) (Manure management)
+Sheep and Goats;Direct emissions (N2O) (Manure on pasture)
+Sheep and Goats;Direct emissions (N2O) (Manure applied)
+Sheep and Goats;Direct emissions (N2O) (Manure management)
+Sheep and Goats;Direct emissions (CO2eq) (Manure on pasture)
+Sheep and Goats;Direct emissions (CO2eq) (Manure applied)
+Sheep and Goats;Direct emissions (CO2eq) (Manure management)
+Sheep and Goats;Indirect emissions (N2O) (Manure on pasture)
+Sheep and Goats;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Sheep and Goats;Indirect emissions (N2O that leaches) (Manure on pasture)
+Sheep and Goats;Indirect emissions (N2O) (Manure applied)
+Sheep and Goats;Indirect emissions (N2O) (Manure management)
+Sheep and Goats;Indirect emissions (CO2eq) (Manure on pasture)
+Sheep and Goats;Indirect emissions (CO2eq) (Manure applied)
+Sheep and Goats;Indirect emissions (CO2eq) (Manure management)
+Sheep and Goats;Manure (N content) (Manure on pasture)
+Sheep and Goats;Manure (N content that volatilises) (Manure on pasture)
+Sheep and Goats;Manure (N content that leaches) (Manure on pasture)
+Sheep and Goats;Manure (N content) (Manure applied)
+Sheep and Goats;Manure (N content) (Manure management)
+Sheep and Goats;Emissions (CO2eq) from N2O (Manure management)
+Sheep and Goats;Emissions (CO2eq) from CH4 (Manure management)
+All Animals;Stocks
+All Animals;Implied emission factor for CH4 (Enteric)
+All Animals;Emissions (CH4) (Enteric)
+All Animals;Emissions (CH4) (Manure management)
+All Animals;Emissions (N2O) (Manure on pasture)
+All Animals;Emissions (N2O) (Manure applied)
+All Animals;Emissions (N2O) (Manure management)
+All Animals;Emissions (CO2eq) (Manure on pasture)
+All Animals;Emissions (CO2eq) (Manure applied)
+All Animals;Emissions (CO2eq) (Enteric)
+All Animals;Emissions (CO2eq) (Manure management)
+All Animals;Direct emissions (N2O) (Manure on pasture)
+All Animals;Direct emissions (N2O) (Manure applied)
+All Animals;Direct emissions (N2O) (Manure management)
+All Animals;Direct emissions (CO2eq) (Manure on pasture)
+All Animals;Direct emissions (CO2eq) (Manure applied)
+All Animals;Direct emissions (CO2eq) (Manure management)
+All Animals;Indirect emissions (N2O) (Manure on pasture)
+All Animals;Indirect emissions (N2O that volatilises) (Manure on pasture)
+All Animals;Indirect emissions (N2O that leaches) (Manure on pasture)
+All Animals;Indirect emissions (N2O) (Manure applied)
+All Animals;Indirect emissions (N2O) (Manure management)
+All Animals;Indirect emissions (CO2eq) (Manure on pasture)
+All Animals;Indirect emissions (CO2eq) (Manure applied)
+All Animals;Indirect emissions (CO2eq) (Manure management)
+All Animals;Manure (N content) (Manure on pasture)
+All Animals;Manure (N content that volatilises) (Manure on pasture)
+All Animals;Manure (N content that leaches) (Manure on pasture)
+All Animals;Manure (N content) (Manure applied)
+All Animals;Manure (N content) (Manure management)
+All Animals;Emissions (CO2eq) from N2O (Manure management)
+All Animals;Emissions (CO2eq) from CH4 (Manure management)
+Cattle;Stocks
+Cattle;Implied emission factor for CH4 (Enteric)
+Cattle;Emissions (CH4) (Enteric)
+Cattle;Emissions (CH4) (Manure management)
+Cattle;Emissions (N2O) (Manure on pasture)
+Cattle;Emissions (N2O) (Manure applied)
+Cattle;Emissions (N2O) (Manure management)
+Cattle;Emissions (CO2eq) (Manure on pasture)
+Cattle;Emissions (CO2eq) (Manure applied)
+Cattle;Emissions (CO2eq) (Enteric)
+Cattle;Emissions (CO2eq) (Manure management)
+Cattle;Direct emissions (N2O) (Manure on pasture)
+Cattle;Direct emissions (N2O) (Manure applied)
+Cattle;Direct emissions (N2O) (Manure management)
+Cattle;Direct emissions (CO2eq) (Manure on pasture)
+Cattle;Direct emissions (CO2eq) (Manure applied)
+Cattle;Direct emissions (CO2eq) (Manure management)
+Cattle;Indirect emissions (N2O) (Manure on pasture)
+Cattle;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Cattle;Indirect emissions (N2O that leaches) (Manure on pasture)
+Cattle;Indirect emissions (N2O) (Manure applied)
+Cattle;Indirect emissions (N2O) (Manure management)
+Cattle;Indirect emissions (CO2eq) (Manure on pasture)
+Cattle;Indirect emissions (CO2eq) (Manure applied)
+Cattle;Indirect emissions (CO2eq) (Manure management)
+Cattle;Manure (N content) (Manure on pasture)
+Cattle;Manure (N content that volatilises) (Manure on pasture)
+Cattle;Manure (N content that leaches) (Manure on pasture)
+Cattle;Manure (N content) (Manure applied)
+Cattle;Manure (N content) (Manure management)
+Cattle;Emissions (CO2eq) from N2O (Manure management)
+Cattle;Emissions (CO2eq) from CH4 (Manure management)
+Mules and Asses;Stocks
+Mules and Asses;Implied emission factor for CH4 (Enteric)
+Mules and Asses;Emissions (CH4) (Enteric)
+Mules and Asses;Emissions (CH4) (Manure management)
+Mules and Asses;Emissions (N2O) (Manure on pasture)
+Mules and Asses;Emissions (N2O) (Manure applied)
+Mules and Asses;Emissions (N2O) (Manure management)
+Mules and Asses;Emissions (CO2eq) (Manure on pasture)
+Mules and Asses;Emissions (CO2eq) (Manure applied)
+Mules and Asses;Emissions (CO2eq) (Enteric)
+Mules and Asses;Emissions (CO2eq) (Manure management)
+Mules and Asses;Direct emissions (N2O) (Manure on pasture)
+Mules and Asses;Direct emissions (N2O) (Manure applied)
+Mules and Asses;Direct emissions (N2O) (Manure management)
+Mules and Asses;Direct emissions (CO2eq) (Manure on pasture)
+Mules and Asses;Direct emissions (CO2eq) (Manure applied)
+Mules and Asses;Direct emissions (CO2eq) (Manure management)
+Mules and Asses;Indirect emissions (N2O) (Manure on pasture)
+Mules and Asses;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Mules and Asses;Indirect emissions (N2O that leaches) (Manure on pasture)
+Mules and Asses;Indirect emissions (N2O) (Manure applied)
+Mules and Asses;Indirect emissions (N2O) (Manure management)
+Mules and Asses;Indirect emissions (CO2eq) (Manure on pasture)
+Mules and Asses;Indirect emissions (CO2eq) (Manure applied)
+Mules and Asses;Indirect emissions (CO2eq) (Manure management)
+Mules and Asses;Manure (N content) (Manure on pasture)
+Mules and Asses;Manure (N content that volatilises) (Manure on pasture)
+Mules and Asses;Manure (N content that leaches) (Manure on pasture)
+Mules and Asses;Manure (N content) (Manure applied)
+Mules and Asses;Manure (N content) (Manure management)
+Mules and Asses;Emissions (CO2eq) from N2O (Manure management)
+Mules and Asses;Emissions (CO2eq) from CH4 (Manure management)
+Poultry Birds;Stocks
+Poultry Birds;Emissions (CH4) (Manure management)
+Poultry Birds;Emissions (N2O) (Manure on pasture)
+Poultry Birds;Emissions (N2O) (Manure applied)
+Poultry Birds;Emissions (N2O) (Manure management)
+Poultry Birds;Emissions (CO2eq) (Manure on pasture)
+Poultry Birds;Emissions (CO2eq) (Manure applied)
+Poultry Birds;Emissions (CO2eq) (Manure management)
+Poultry Birds;Direct emissions (N2O) (Manure on pasture)
+Poultry Birds;Direct emissions (N2O) (Manure applied)
+Poultry Birds;Direct emissions (N2O) (Manure management)
+Poultry Birds;Direct emissions (CO2eq) (Manure on pasture)
+Poultry Birds;Direct emissions (CO2eq) (Manure applied)
+Poultry Birds;Direct emissions (CO2eq) (Manure management)
+Poultry Birds;Indirect emissions (N2O) (Manure on pasture)
+Poultry Birds;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Poultry Birds;Indirect emissions (N2O that leaches) (Manure on pasture)
+Poultry Birds;Indirect emissions (N2O) (Manure applied)
+Poultry Birds;Indirect emissions (N2O) (Manure management)
+Poultry Birds;Indirect emissions (CO2eq) (Manure on pasture)
+Poultry Birds;Indirect emissions (CO2eq) (Manure applied)
+Poultry Birds;Indirect emissions (CO2eq) (Manure management)
+Poultry Birds;Manure (N content) (Manure on pasture)
+Poultry Birds;Manure (N content that volatilises) (Manure on pasture)
+Poultry Birds;Manure (N content that leaches) (Manure on pasture)
+Poultry Birds;Manure (N content) (Manure applied)
+Poultry Birds;Manure (N content) (Manure management)
+Poultry Birds;Emissions (CO2eq) from N2O (Manure management)
+Poultry Birds;Emissions (CO2eq) from CH4 (Manure management)
+Synthetic Nitrogen fertilizers;Emissions (N2O) (Synthetic fertilizers)
+Synthetic Nitrogen fertilizers;Emissions (CO2eq) (Synthetic fertilizers)
+Synthetic Nitrogen fertilizers;Direct emissions (N2O) (Synthetic fertilizers)
+Synthetic Nitrogen fertilizers;Direct emissions (CO2eq) (Synthetic fertilizers)
+Synthetic Nitrogen fertilizers;Indirect emissions (N2O) (Synthetic fertilizers)
+Synthetic Nitrogen fertilizers;Indirect emissions (N2O that volatilises) (Synthetic fertilizers)
+Synthetic Nitrogen fertilizers;Indirect emissions (N2O that leaches) (Synthetic fertilizers)
+Synthetic Nitrogen fertilizers;Indirect emissions (CO2eq) (Synthetic fertilizers)
+Enteric Fermentation;Emissions (CO2eq)
+Enteric Fermentation;Emissions (CO2eq) from CH4
+Manure Management;Emissions (CO2eq)
+Manure Management;Emissions (CO2eq) from N2O
+Manure Management;Emissions (CO2eq) from CH4
+Synthetic Fertilizers;Emissions (CO2eq)
+Synthetic Fertilizers;Emissions (CO2eq) from N2O
+Manure applied to Soils;Emissions (CO2eq)
+Manure applied to Soils;Emissions (CO2eq) from N2O
+Manure left on Pasture;Emissions (CO2eq)
+Manure left on Pasture;Emissions (CO2eq) from N2O
+Crop Residues;Emissions (CO2eq)
+Crop Residues;Emissions (CO2eq) from N2O
+Burning - Crop residues;Emissions (CO2eq)
+Burning - Crop residues;Emissions (CO2eq) from N2O
+Burning - Crop residues;Emissions (CO2eq) from CH4
+Maize;Emissions (CH4) (Burning crop residues)
+Maize;Emissions (N2O) (Crop residues)
+Maize;Emissions (N2O) (Burning crop residues)
+Maize;Emissions (CO2eq) (Crop residues)
+Maize;Emissions (CO2eq) (Burning crop residues)
+Maize;Direct emissions (N2O) (Crop residues)
+Maize;Direct emissions (CO2eq) (Crop residues)
+Maize;Indirect emissions (N2O) (Crop residues)
+Maize;Indirect emissions (CO2eq) (Crop residues)
+Maize;Residues (Crop residues)
+Maize;Emissions (CO2eq) from N2O (Burning crop residues)
+Maize;Emissions (CO2eq) from CH4 (Burning crop residues)
+Maize;Biomass burned (dry matter)
+Cattle, dairy;Stocks
+Cattle, dairy;Implied emission factor for CH4 (Enteric)
+Cattle, dairy;Implied emission factor for CH4 (Manure management)
+Cattle, dairy;Emissions (CH4) (Enteric)
+Cattle, dairy;Emissions (CH4) (Manure management)
+Cattle, dairy;Implied emission factor for N2O (Manure on pasture)
+Cattle, dairy;Implied emission factor for N2O (Manure applied)
+Cattle, dairy;Implied emission factor for N2O (Manure management)
+Cattle, dairy;Emissions (N2O) (Manure on pasture)
+Cattle, dairy;Emissions (N2O) (Manure applied)
+Cattle, dairy;Emissions (N2O) (Manure management)
+Cattle, dairy;Emissions (CO2eq) (Manure on pasture)
+Cattle, dairy;Emissions (CO2eq) (Manure applied)
+Cattle, dairy;Emissions (CO2eq) (Enteric)
+Cattle, dairy;Emissions (CO2eq) (Manure management)
+Cattle, dairy;Direct emissions (N2O) (Manure on pasture)
+Cattle, dairy;Direct emissions (N2O) (Manure applied)
+Cattle, dairy;Direct emissions (N2O) (Manure management)
+Cattle, dairy;Direct emissions (CO2eq) (Manure on pasture)
+Cattle, dairy;Direct emissions (CO2eq) (Manure applied)
+Cattle, dairy;Direct emissions (CO2eq) (Manure management)
+Cattle, dairy;Indirect emissions (N2O) (Manure on pasture)
+Cattle, dairy;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Cattle, dairy;Indirect emissions (N2O that leaches) (Manure on pasture)
+Cattle, dairy;Indirect emissions (N2O) (Manure applied)
+Cattle, dairy;Indirect emissions (N2O) (Manure management)
+Cattle, dairy;Indirect emissions (CO2eq) (Manure on pasture)
+Cattle, dairy;Indirect emissions (CO2eq) (Manure applied)
+Cattle, dairy;Indirect emissions (CO2eq) (Manure management)
+Cattle, dairy;Manure (N content) (Manure on pasture)
+Cattle, dairy;Manure (N content that volatilises) (Manure on pasture)
+Cattle, dairy;Manure (N content that leaches) (Manure on pasture)
+Cattle, dairy;Manure (N content) (Manure applied)
+Cattle, dairy;Manure (N content) (Manure management)
+Cattle, dairy;Emissions (CO2eq) from N2O (Manure management)
+Cattle, dairy;Emissions (CO2eq) from CH4 (Manure management)
+Cattle, non-dairy;Stocks
+Cattle, non-dairy;Implied emission factor for CH4 (Enteric)
+Cattle, non-dairy;Implied emission factor for CH4 (Manure management)
+Cattle, non-dairy;Emissions (CH4) (Enteric)
+Cattle, non-dairy;Emissions (CH4) (Manure management)
+Cattle, non-dairy;Implied emission factor for N2O (Manure on pasture)
+Cattle, non-dairy;Implied emission factor for N2O (Manure applied)
+Cattle, non-dairy;Implied emission factor for N2O (Manure management)
+Cattle, non-dairy;Emissions (N2O) (Manure on pasture)
+Cattle, non-dairy;Emissions (N2O) (Manure applied)
+Cattle, non-dairy;Emissions (N2O) (Manure management)
+Cattle, non-dairy;Emissions (CO2eq) (Manure on pasture)
+Cattle, non-dairy;Emissions (CO2eq) (Manure applied)
+Cattle, non-dairy;Emissions (CO2eq) (Enteric)
+Cattle, non-dairy;Emissions (CO2eq) (Manure management)
+Cattle, non-dairy;Direct emissions (N2O) (Manure on pasture)
+Cattle, non-dairy;Direct emissions (N2O) (Manure applied)
+Cattle, non-dairy;Direct emissions (N2O) (Manure management)
+Cattle, non-dairy;Direct emissions (CO2eq) (Manure on pasture)
+Cattle, non-dairy;Direct emissions (CO2eq) (Manure applied)
+Cattle, non-dairy;Direct emissions (CO2eq) (Manure management)
+Cattle, non-dairy;Indirect emissions (N2O) (Manure on pasture)
+Cattle, non-dairy;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Cattle, non-dairy;Indirect emissions (N2O that leaches) (Manure on pasture)
+Cattle, non-dairy;Indirect emissions (N2O) (Manure applied)
+Cattle, non-dairy;Indirect emissions (N2O) (Manure management)
+Cattle, non-dairy;Indirect emissions (CO2eq) (Manure on pasture)
+Cattle, non-dairy;Indirect emissions (CO2eq) (Manure applied)
+Cattle, non-dairy;Indirect emissions (CO2eq) (Manure management)
+Cattle, non-dairy;Manure (N content) (Manure on pasture)
+Cattle, non-dairy;Manure (N content that volatilises) (Manure on pasture)
+Cattle, non-dairy;Manure (N content that leaches) (Manure on pasture)
+Cattle, non-dairy;Manure (N content) (Manure applied)
+Cattle, non-dairy;Manure (N content) (Manure management)
+Cattle, non-dairy;Emissions (CO2eq) from N2O (Manure management)
+Cattle, non-dairy;Emissions (CO2eq) from CH4 (Manure management)
+Sheep;Implied emission factor for CH4 (Enteric)
+Sheep;Implied emission factor for CH4 (Manure management)
+Sheep;Emissions (CH4) (Enteric)
+Sheep;Emissions (CH4) (Manure management)
+Sheep;Implied emission factor for N2O (Manure on pasture)
+Sheep;Emissions (N2O) (Manure on pasture)
+Sheep;Emissions (N2O) (Manure applied)
+Sheep;Emissions (N2O) (Manure management)
+Sheep;Emissions (CO2eq) (Manure on pasture)
+Sheep;Emissions (CO2eq) (Manure applied)
+Sheep;Emissions (CO2eq) (Enteric)
+Sheep;Emissions (CO2eq) (Manure management)
+Sheep;Direct emissions (N2O) (Manure on pasture)
+Sheep;Direct emissions (N2O) (Manure applied)
+Sheep;Direct emissions (N2O) (Manure management)
+Sheep;Direct emissions (CO2eq) (Manure on pasture)
+Sheep;Direct emissions (CO2eq) (Manure applied)
+Sheep;Direct emissions (CO2eq) (Manure management)
+Sheep;Indirect emissions (N2O) (Manure on pasture)
+Sheep;Indirect emissions (N2O that volatilises) (Manure on pasture)
+Sheep;Indirect emissions (N2O that leaches) (Manure on pasture)
+Sheep;Indirect emissions (N2O) (Manure applied)
+Sheep;Indirect emissions (N2O) (Manure management)
+Sheep;Indirect emissions (CO2eq) (Manure on pasture)
+Sheep;Indirect emissions (CO2eq) (Manure applied)
+Sheep;Indirect emissions (CO2eq) (Manure management)
+Sheep;Manure (N content) (Manure on pasture)
+Sheep;Manure (N content that volatilises) (Manure on pasture)
+Sheep;Manure (N content that leaches) (Manure on pasture)
+Sheep;Manure (N content) (Manure applied)
+Sheep;Manure (N content) (Manure management)
+Sheep;Emissions (CO2eq) from N2O (Manure management)
+Sheep;Emissions (CO2eq) from CH4 (Manure management)
+Pesticides;Import Value
+Nitrogenous fertilizers;Import Value
+Country area;Area
+Land area;Area
+Agricultural area;Area
+Arable land and Permanent crops;Area
+Arable land;Area
+Permanent crops;Area
+Permanent meadows and pastures;Area
+Inland water;Area
+Total area equipped for irrigation;Area
