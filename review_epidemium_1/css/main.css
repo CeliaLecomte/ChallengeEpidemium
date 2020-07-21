@@ -1,0 +1,482 @@
+/*! HTML5 Boilerplate v5.3.0 | MIT License | https://html5boilerplate.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/*
+*	0. BODY
+*/
+
+		body { background-color : #293787; color :#f26926; font-family: 'Source Sans Pro', sans-serif; font-weight : 200; font-size : 18px; }
+
+
+
+
+		/*
+		*	1. COMMMUN
+		*/
+
+			.chapitre {margin-bottom :150px; position : relative;}
+			.bloc {padding-bottom : 50px;}
+			.bloc:before,
+			.bloc:after { content: " "; /* 1 */	display: table; /* 2 */	}
+
+			.bloc:after {clear: both;}
+			.filet {height : 1px; background-color : #f26926; margin-bottom : 50px;}
+
+			.souligne {text-decoration : underline;}
+			.picto-chiffre {float : left; margin : 0; line-height : 100px; margin-right : 20px;}
+
+			.chiffre-petit-info{text-align:center;}
+			.chiffre-petit .fa {font-size :50px; margin-right : 10px;  position : relative; top:-3px;}
+
+			.col-xs-6 {padding-left : 0;}
+
+			.icone-social-big {font-size : 100px; text-align :center;}
+			.social a,
+			.icone-social-big a
+			 {color : inherit;}
+
+
+
+		/*
+		*	2. TYPOGRAPhIE
+		*/
+
+		h2, h3 {margin-top : 0;}
+
+		h1 {font-size : 60px; font-weight : 200; text-transform : uppercase;}
+		h2 {font-size : 48px; font-weight : 200; text-transform : uppercase; margin-bottom : 60px; position : relative;}
+		h3 {font-size : 36px; color : white; font-weight : 200; margin-bottom : 50px;}
+		h4 {font-size : 22px; color : white; font-weight : 700;}
+
+		.chiffre {font-size : 110px; font-weight : 200; letter-spacing : -0.04em; height : 90px; line-height : 90px; text-align : center;}
+		.chiffre-petit {font-size : 72px; display : block; text-align : center; height : 85px;}
+		.chiffre-mini {font-size : 42px;}
+
+		.typo22{font-size : 22px;}
+		.typo30{font-size : 30px; text-align : center; line-height : 40px; margin-top : 0px;}
+
+		.source {font-size : 12px; text-align : right;}
+
+		.item-title {font-weight : 700; text-transform : uppercase; list-style : none;}
+
+		a {color : white; text-decoration : underline;}
+		a:hover {color : white;}
+		a:active {color : inherit;}
+
+		.debut-p {text-transform : uppercase; font-weight : 700;}
+
+		.lowercase {text-transform : none; font-size : 14px;font-weight : 200; color :whte;}
+
+
+		/*
+		*	3. HEADER
+		*/
+
+		header {padding-bottom : 125px; text-align : center;}
+
+		header h1 {max-width : 912px; margin : 70px auto 10px; padding : 0 30px; text-align : center;}
+		header h1 img {width : 100%;}
+
+		header .baseline {font-size : 30px; text-align : center; font-weight : 200; margin-top : 20px}
+
+		header .logos {margin-top : 70px;}
+
+		header .logos li {list-style : none; text-align : center;}
+
+
+		/*
+		*	4. SOCIAL
+		*/
+
+		.social {border-top : solid 1px #f26926	; border-bottom : solid 1px #f26926	; margin-bottom : 30px; text-transform : uppercase; padding : 20px 0 25px;}
+		.social .fa {font-size : 30px; position : relative; top : 3px;}
+		.social .fa-facebook-square {margin-left : 20px;}
+
+		/*
+		*	5. DETAILS
+		*/
+
+		.c4c {margin-left : 0;}
+		.bloc-1 .death {text-align : center;}
+		.bloc-1 .deuxmilledouze {line-height : 65px;}
+		.bloc-1 .huitdeux {margin-top : -12px;}
+		.chiffre-70 {margin-top : 30px;}
+		.chapitre-1 .source {text-align : center; margin-top : 10px; position : relative; top : 40px;}
+		.chapitre-1 .fleche {margin-top : 50px; text-align : center; }
+		.chapitre-1 .fleche img {width : 100%; max-width : 147px;}
+		.chapitre-1 .info-70-1 {margin-bottom : 0; font-weight : 300;}
+		.chapitre-1 .info-70-2 {text-align : center; letter-spacing : 0.02em;}
+
+		.chapitre-1 .colonne-approche {text-align : center;}
+		.chapitre-1 .titre-approches {height : 90px;}
+		.chapitre-1 .picto-approche {height : 260px; max-width : 146px;line-height : 230px; margin : 0 auto;}
+		.chapitre-1 .picto-approche img {width : 100%;}
+
+		/*.chapitre-1 .grassroots {margin-bottom : 10px;}*/
+		.chapitre-1 .grassroots-paragraphe {margin-bottom : 50px;}
+
+		.chapitre-1 .illustration {height : 230px;}
+		.chapitre-1 .illustration figure {margin : 0; margin-bottom : 30px;}
+		.chapitre-1 .illustration figure img {width : 100%;}
+		.chapitre-1 .illustration strong {margin-right : 7px;}
+
+		/*.chapitre-2 .human-p {display : inline-block;}*/
+		.chapitre-2 .picto-human {margin : 0;}
+
+		.col-sm-6 {padding-left : 0 !important;}
+
+		.source-exchange {margin-top : 10px;}
+
+		.example {margin-top : 40px;}
+
+		.chapitre-4 .projects {padding : 0;}
+		.chapitre-4 .projects .item-title {margin-top : 35px; margin-bottom : 10px;}
+		.chapitre-4 .projects li:nth-child(1) .item-title {margin-top : 0px;}
+		.chapitre-4 .projects li {list-style : none;}
+		.chapitre-4 .projects li figure,
+		.chapitre-4 .projects li .content		 {float : left;}
+		.chapitre-4 .projects li figure {margin : 0; width : 70px; height : 30px;}
+
+		.shrotlisted-projects {padding : 0; margin-bottom : 50px;}
+		.shrotlisted-projects li {margin-bottom : 20px;}
+
+		.online-tool-picto {font-size : 40px; text-align : center;}
+		.online-tool-picto-3 {font-size : 30px; margin-top : 5px !important; }
+
+		.fondations h4 {margin-bottom : 40px; text-align : right;}
+
+		.picto-meetup {width : 120px; height : 70px; background-image : url('../img/picto-meetup.png'); display : block; margin : 40px auto 0;}
+		.picto-meetup:hover {background-position: 0 -71px;}
+
+
+		/*
+		*	6. FOOTER
+		*/
+
+		footer {text-align : center; padding-bottom : 30px;}
+
+
+
+		/*
+		*	7. DIAGRAMMES
+		*/
+
+		.link:hover {stroke-opacity:1;}
+		.sankay text {fill : white; }
+
+		.colonne-diagramme {text-align : center;}
+		.community {width : 100%; max-width : 578px;}
+
+		.meetup {border : solid 1px #f26926; border-radius : 50%; text-align :center; width : 200px; height : 200px;  position : relative;}
+		.meetup .titre {position: absolute; top: 50%;  transform: translateY(-50%); font-size : 12px;}
+
+		.diagramme-timeline 				{position : relative;}
+		.diagramme-timeline .fond .ligne 	{height : 1px; background-color : #f26926; width : 100%; margin-bottom : 40px;}
+		.diagramme-timeline .courbe-masque  {position : absolute; top : 0; left : 0; width : 0%; height : 100%; overflow : hidden;}
+		.diagramme-timeline .courbe 		{position : absolute; top : 0; left : 0; width : 540px; height : 100%;}
+		.legende {color : white; padding-left : 20px; position : absolute; right :20px; bottom : 10px;}
+		.legende span {display : block; background-color : white; width : 10px; height : 10px; border-radius : 50%; position : absolute; left : 0; top:8px;}
+
+		.diagramme-colonne {padding : 0;}
+
+		.colonne-item {list-style : none; text-align :center; height : 350px;}
+		.colonne-item .titre {text-align : center; font-size : 12px; height : 60px; margin-bottom : 20px;}
+		.colonne-item .chiffre {font-size : 30px; color : white; margin-bottom : 15px; height : 50px;}
+		.colonne-item .colonne-container  {position : relative; height : 200px;}
+		.colonne-item .colonne-container .colonne {background-color : #f26926; width : 100%; position: absolute; top: 50%;  transform: translateY(-50%);}
+		.colonne-item .colonne-container .colonne-1 {height : 268px;}
+		.colonne-item .colonne-container .colonne-2 {height : 184px;}
+		.colonne-item .colonne-container .colonne-3 {height : 132px;}
+		.colonne-item .colonne-container .colonne-4 {height : 28px;}
+		.colonne-item .colonne-container .colonne-5 {height : 24px;}
+
+		.colonne-item .finalist-contain-container {height : 440px;}
+		.colonne-item .colonne-container .finalist-contain {position: absolute; top: 50%;  transform: translateY(-50%);}
+
+
+		.calendrier {padding : 0; margin-bottom : 50px; }
+		.calendrier .jour { border : solid 1px #f26926; text-align : center; list-style : none; height : 150px; padding : 0;}
+		.calendrier .jour .date,
+		.calendrier .jour .over { width : 100%; height : 150px; position : absolute;}
+
+		.calendrier .jour .mois {position : absolute; margin : 0 auto; top : 30px; width : 100%; text-align :center; font-weight : 700;}
+		.calendrier .jour .date {position : absolute; margin : 0 auto; top : 50px;}
+		.calendrier .jour .over {display : none;}
+
+		.calendrier .jour:hover .over {display : block; background-color : #f26926;  color : #293686 !important;}
+		.calendrier .jour .over .container { position : absolute; 	top : 50%; transform: translateY(-50%); width : 100%; }
+
+		.calendrier .jour .over .titre {font-size : 12px; font-weight : 700; padding : 0 10px; margin-bottom : 0;}
+
+		.entete-sankey {text-transform : uppercase; font-size : 12px; color :white; margin-bottom : 20px;}
+		.entete-sankey .droite {text-align : right;}
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Hide visually and from screen readers
+ */
+
+.hidden {
+    display: none !important;
+}
+
+/*
+ * Hide only visually, but have it available for screen readers:
+ * http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 1.25dppx),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   http://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+    *,
+    *:before,
+    *:after,
+    *:first-letter,
+    *:first-line {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster:
+                                   http://www.sanbeiji.com/archives/953 */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
+
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    /*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

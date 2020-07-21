@@ -1,0 +1,64 @@
+@media screen and (max-width: 768px) {
+	
+	/*
+	*	1. TYPOGRAPHY
+	*/
+	
+		header .baseline	{font-size : 20px;}
+		header h1			{font-size :40px; padding : 0 10px;}
+		
+		h2 					{font-size : 30px; margin-bottom : 20px;}
+		h3					{font-size : 20px; line-height : 25px; letter-spacing : -0.01em;}
+		
+		.typo30 {
+		    font-size: 20px;
+		    line-height: 26px;
+		    margin-top: 0;
+		    text-align: center;
+		}
+		
+		
+	/*
+	*	2. COMMUNS
+	*/
+	
+	.chapitre 				{margin-bottom : 50px;}
+	.chapitre-head p		{margin-bottom : 20px;}
+	.source					{text-align :center;}
+	
+	
+	/*
+	*	X. HEADER
+	*/
+		
+		header				{padding-bottom : 45px;}
+		.main-title			{margin-top : 20px;}
+		.logos				{padding : 0; }
+		.logos li 			{margin-bottom : 30px; padding : 0;}
+		.logos li img		{height : 40px; text-align : center;}
+		
+		
+	/*
+	*	X. DETAILS	
+	*/
+	
+		.c4c img			{width : 50px;}
+		.chapitre-4 .projects li figure {width : 100%; margin-bottom : 25px;}
+		.chapitre-1 .fleche	{margin-top : 0px;}
+		.death				{margin : 30px 0 40px;}
+		.chapitre-1 .picto-approche { height: 200px; line-height: 140px;   margin: 0 auto; max-width: 146px;}
+		.calendrier .jour .over .titre {font-size: 10px; font-weight: 700;  line-height: 12px; margin-bottom: 0; padding: 0 10px; }
+		
+	/*
+	*	X. DIAGRAMME
+	*/	
+	
+	.colonne-item			{padding : 0 5px;}
+	.colonne-item .chiffre	{font-size : 23px;}
+	.diagramme-colonne		{margin-bottom : 60px;}
+	.colonne-item .titre	{font-size : 9px;}
+	.ligne span				{font-size : 12px;display : block; top : 1px; position : relative;}
+	.diagramme-timeline .legende {font-size:12px; right : 0; bottom :3px;}
+	.legende span			{top : 4px;}
+	
+}
